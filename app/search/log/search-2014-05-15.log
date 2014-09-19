@@ -1,0 +1,37 @@
+15.05.2014 09:04:08,859 - ERROR - unknown wikiuser
+15.05.2014 09:04:08,948 - INFO  - searcher anonymous --- respT: 36ms, 27753 results, q=, 
+15.05.2014 09:05:00,278 - ERROR - unknown wikiuser
+15.05.2014 09:05:00,371 - INFO  - searcher anonymous --- respT: 15ms, 60 results, q=Icing, 
+15.05.2014 09:05:01,949 - ERROR - unknown wikiuser
+15.05.2014 09:05:02,011 - INFO  - searcher anonymous --- respT: 12ms, no results, q=Icinga gear, 
+15.05.2014 09:05:03,291 - ERROR - unknown wikiuser
+15.05.2014 09:05:03,323 - INFO  - searcher anonymous --- respT: 12ms, no results, q=Icinga gearman, 
+15.05.2014 09:05:06,292 - ERROR - unknown wikiuser
+15.05.2014 09:05:06,486 - INFO  - searcher anonymous --- respT: 27ms, no results, q=Icinga gearm, 
+15.05.2014 09:05:07,724 - ERROR - unknown wikiuser
+15.05.2014 09:05:07,759 - INFO  - searcher anonymous --- respT: 13ms, 4 results, q=Icinga, 
+15.05.2014 09:05:18,092 - ERROR - unknown wikiuser
+15.05.2014 09:05:18,173 - INFO  - searcher anonymous --- respT: 16ms, 1498 results, q=Ic, 
+15.05.2014 09:05:21,739 - ERROR - unknown wikiuser
+15.05.2014 09:05:21,808 - INFO  - searcher anonymous --- respT: 23ms, 549 results, q=send, 
+15.05.2014 09:05:23,733 - ERROR - unknown wikiuser
+15.05.2014 09:05:24,107 - INFO  - searcher anonymous --- respT: 108ms, 15 results, q=send_gear, 
+15.05.2014 09:05:24,727 - ERROR - unknown wikiuser
+15.05.2014 09:05:24,815 - INFO  - searcher anonymous --- respT: 26ms, no results, q=send_gearma, 
+15.05.2014 09:05:27,834 - ERROR - unknown wikiuser
+15.05.2014 09:05:27,866 - INFO  - searcher anonymous --- respT: 11ms, no results, q=send_gearman, 
+15.05.2014 09:05:32,831 - ERROR - unknown wikiuser
+15.05.2014 09:05:32,861 - INFO  - searcher anonymous --- respT: 9ms, no results, q=gearman, 
+15.05.2014 12:13:23,160 - INFO  - searcher identified --- respT: 67ms, 78880 results, q=, 
+15.05.2014 12:13:28,560 - INFO  - searcher identified --- respT: 36ms, no results, q=AUTHOR_WWW/LTP_SUMMERSHCOOL/HomeEN, 
+15.05.2014 12:13:30,853 - INFO  - searcher identified --- respT: 28ms, no results, q=AUTHOR_WWW/LTP_SUMMERSHCOOL, 
+15.05.2014 12:13:32,448 - INFO  - searcher identified --- respT: 19ms, no results, q=LTP_SUMMERSHCOOL, 
+15.05.2014 12:13:37,836 - INFO  - searcher identified --- respT: 77ms, 78880 results, q=, 
+15.05.2014 12:13:51,785 - INFO  - searcher identified --- respT: 16ms, 33 results, q=particle-zuoz-school, 
+15.05.2014 12:13:57,860 - INFO  - searcher identified --- respT: 18ms, 2 results, web:(PSIWeb), q=particle-zuoz-school, 
+15.05.2014 14:32:40,220 - INFO  - searcher identified --- respT: 43ms, 78886 results, q=, 
+15.05.2014 14:32:43,527 - INFO  - searcher identified --- respT: 26ms, 701 results, q=angu, 
+15.05.2014 14:32:45,374 - INFO  - searcher identified --- respT: 14ms, 685 results, q=angular, 
+15.05.2014 14:32:52,194 - INFO  - searcher identified --- respT: 33ms, 9 results, web:(PSIWeb), q=angular, 
+15.05.2014 14:33:57,470 - INFO  - searcher identified --- respT: 13ms, 128 results, web:(PSIWeb), q=solr, 
+15.05.2014 14:34:04,136 - INFO  - searcher identified --- respT: 13ms, 128 results, web:(PSIWeb), q=solr, 

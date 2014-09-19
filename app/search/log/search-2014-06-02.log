@@ -1,0 +1,35 @@
+02.06.2014 06:15:02,329 - INFO  - mapping file sync started
+02.06.2014 06:15:02,813 - INFO  - file successfully updated
+02.06.2014 07:15:01,604 - INFO  - mapping file sync started
+02.06.2014 07:15:02,023 - INFO  - file successfully updated
+02.06.2014 08:13:05,278 - INFO  - searcher identified --- respT: 43ms, 79359 results, q=, 
+02.06.2014 08:13:13,240 - INFO  - searcher identified --- respT: 21ms, 5537 results, q=people, 
+02.06.2014 08:13:18,145 - INFO  - searcher identified --- respT: 29ms, 453 results, q=people.web.psi.ch, 
+02.06.2014 08:13:19,017 - INFO  - searcher identified --- respT: 28ms, 453 results, q=people.web.psi.ch, 
+02.06.2014 08:13:28,526 - INFO  - searcher identified --- respT: 27ms, 320 results, type:topic, q=people.web.psi.ch, 
+02.06.2014 08:13:39,144 - INFO  - searcher identified --- respT: 34ms, 214 results, type:topic, web:(PSIWeb), q=people.web.psi.ch, 
+02.06.2014 08:13:49,529 - INFO  - searcher identified --- respT: 34ms, 214 results, type:topic, web:(PSIWeb), q=people.web.psi.ch, page turned
+02.06.2014 08:13:54,828 - INFO  - searcher identified --- respT: 34ms, 214 results, type:topic, web:(PSIWeb), q=people.web.psi.ch, page turned
+02.06.2014 08:13:58,838 - INFO  - searcher identified --- respT: 33ms, 214 results, type:topic, web:(PSIWeb), q=people.web.psi.ch, page turned
+02.06.2014 08:19:04,013 - INFO  - searcher identified --- respT: 16ms, no results, type:topic, web:(PSIWeb), q=peopleold, 
+02.06.2014 08:19:04,336 - INFO  - searcher identified --- respT: 14ms, no results, q=peopleold, 
+02.06.2014 08:19:09,030 - INFO  - searcher identified --- respT: 21ms, 5537 results, q=people, 
+02.06.2014 08:19:10,606 - INFO  - searcher identified --- respT: 20ms, 5537 results, q=people, 
+02.06.2014 08:19:20,482 - INFO  - searcher identified --- respT: 20ms, 3810 results, type:topic, q=people, 
+02.06.2014 08:19:23,851 - INFO  - searcher identified --- respT: 22ms, 1885 results, type:topic, date:[NOW-1YEAR TO NOW], q=people, 
+02.06.2014 08:19:33,878 - INFO  - searcher identified --- respT: 21ms, 280 results, type:topic, date:[NOW-1YEAR TO NOW], author:SonjaWestfeld, q=people, 
+02.06.2014 08:19:51,098 - INFO  - searcher identified --- respT: 19ms, 177 results, type:topic, web:(PSIWeb), date:[NOW-1YEAR TO NOW], author:SonjaWestfeld, q=people, 
+02.06.2014 14:03:52,630 - ERROR - unknown wikiuser
+02.06.2014 14:03:52,817 - INFO  - searcher anonymous --- respT: 33ms, 27923 results, q=, 
+02.06.2014 14:04:41,158 - ERROR - unknown wikiuser
+02.06.2014 14:04:41,233 - INFO  - searcher anonymous --- respT: 31ms, 27923 results, q=, 
+02.06.2014 14:04:46,664 - ERROR - unknown wikiuser
+02.06.2014 14:04:46,789 - INFO  - searcher anonymous --- respT: 15ms, 1 results, q=check.php, 
+02.06.2014 14:04:47,139 - ERROR - unknown wikiuser
+02.06.2014 14:04:47,182 - INFO  - searcher anonymous --- respT: 15ms, 1 results, q=check.php, 
+02.06.2014 14:12:01,341 - INFO  - searcher identified --- respT: 47ms, 82816 results, q=, 
+02.06.2014 14:12:07,942 - INFO  - searcher identified --- respT: 20ms, 5 results, q=searchbeta, 
+02.06.2014 14:12:08,655 - INFO  - searcher identified --- respT: 19ms, 5 results, q=searchbeta, 
+02.06.2014 14:42:07,169 - INFO  - searcher identified --- respT: 70ms, 82817 results, q=, 
+02.06.2014 14:42:29,970 - INFO  - searcher identified --- respT: 28ms, 218 results, q=ecm-trans, 
+02.06.2014 14:42:31,125 - INFO  - searcher identified --- respT: 28ms, 218 results, q=ecm-trans, 

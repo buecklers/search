@@ -1,0 +1,27 @@
+2014-05-07T07:39:47+02:00 [SearchLogger] searcher identified --- respT: 22ms, 15 results, q=bueckler, 
+2014-05-07T08:09:18+02:00 [SearchLogger] mapping file sync started
+2014-05-07T08:09:18+02:00 [SearchLogger] file successfully updated
+2014-05-07T08:11:22+02:00 [SearchLogger] searcher identified --- respT: 14ms, 15 results, q=buecklers, 
+2014-05-07T09:03:04+02:00 [SearchLogger] searcher identified --- respT: 49ms, 35651 results, q=, 
+2014-05-07T09:03:14+02:00 [SearchLogger] searcher identified --- respT: 20ms, 15 results, q=bueckler, 
+2014-05-07T09:05:05+02:00 [SearchLogger] searcher identified --- respT: 11ms, 15 results, q=buecklers, 
+2014-05-07T10:13:37+02:00 [SearchLogger] searcher identified --- respT: 17ms, 8 results, q=buecklers task, 
+2014-05-07T10:18:38+02:00 [SearchLogger] searcher identified --- respT: 24ms, 3953 results, q=test, 
+2014-05-07T10:18:39+02:00 [SearchLogger] searcher identified --- respT: 33ms, 1584 results, q=test s, 
+2014-05-07T10:18:40+02:00 [SearchLogger] searcher identified --- respT: 48ms, 118 results, q=test scen, 
+2014-05-07T10:18:40+02:00 [SearchLogger] searcher identified --- respT: 66ms, 114 results, q=test scena, 
+2014-05-07T10:18:41+02:00 [SearchLogger] searcher identified --- respT: 61ms, 116 results, q=test scenario, 
+2014-05-07T10:18:59+02:00 [SearchLogger] searcher identified --- respT: 107ms, 8 results, q=test scenario miro, 
+2014-05-07T10:19:18+02:00 [SearchLogger] searcher identified --- respT: 25ms, 3953 results, q=test, 
+2014-05-07T10:19:21+02:00 [SearchLogger] searcher identified --- respT: 18ms, 85 results, web:(AIT), q=test, 
+2014-05-07T10:19:32+02:00 [SearchLogger] searcher identified --- respT: 18ms, 85 results, web:(AIT), q=test we, 
+2014-05-07T10:19:33+02:00 [SearchLogger] searcher identified --- respT: 69ms, 42 results, web:(AIT), q=test web, 
+2014-05-07T10:49:47+02:00 [SearchLogger] searcher identified --- respT: 50ms, 42 results, web:(AIT), q=test web, 
+2014-05-07T10:49:53+02:00 [SearchLogger] searcher identified --- respT: 54ms, 42 results, web:(AIT), q=test web, page turned
+2014-05-07T10:49:56+02:00 [SearchLogger] searcher identified --- respT: 83ms, 42 results, web:(AIT), q=test web, page turned
+2014-05-07T10:49:57+02:00 [SearchLogger] searcher identified --- respT: 103ms, 42 results, web:(AIT), q=test web, page turned
+2014-05-07T12:18:14+02:00 [SearchLogger] searcher identified --- respT: 52ms, 78254 results, q=, 
+2014-05-07T12:18:31+02:00 [SearchLogger] searcher identified --- respT: 22ms, 104 results, q=fom, 
+2014-05-07T12:18:37+02:00 [SearchLogger] searcher identified --- respT: 60ms, 8 results, web:(PSIWeb), q=fom, 
+2014-05-07T12:18:40+02:00 [SearchLogger] searcher identified --- respT: 14ms, 2 results, web:(PSIWeb), date:[NOW-1MONTH TO NOW], q=fom, 
+07.05.2014 12:22:56,622 - INFO  - searcher identified --- respT: 80ms, 42 results, web:(AIT), q=test web, page turned

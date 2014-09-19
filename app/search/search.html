@@ -1,0 +1,669 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="de_DE">
+<head>
+<link rel="stylesheet" href="https://intranet.psi.ch/pub/System/HeadlinesPlugin/style.css" type="text/css" media="all" />
+	<title>   PSI :: Search</title>
+		  
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> <meta name="robots" content="noindex" /> <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/PSI/WebRss" />
+	 <meta name="scripturl" content="https://intranet.psi.ch/wiki/bin" />
+	 <meta name="scriptsuffix" content="" />
+
+<meta name="WEBTOPIC" content="Search" />
+<meta name="WEB" content="PSI" />
+<meta name="SCRIPTURLPATH" content="/wiki/bin" />
+<meta name="SCRIPTSUFFIX" content="" />
+<meta name="TEXT_JUMP" content="Sprung" />
+<meta name="TEXT_SEARCH" content="Suchen" />
+<meta name="TEXT_NUM_TOPICS" content="Anzahl der Topics:" />
+<meta name="TEXT_MODIFY_SEARCH" content="Suche verändern" />
+
+	<link rel="icon" href="/pub/Main/WebPreferences/favicon.ico" type="image/x-icon" /> <link rel="shortcut icon" href="/pub/Main/WebPreferences/favicon.ico" type="image/x-icon" />
+	<link rel="alternate" href="https://intranet.psi.ch/wiki/bin/edit/PSI/Search?t=1395233300" type="application/x-wiki" title="edit Search" />
+	<meta name="description" content="Search" />	
+
+	<style type="text/css" media="all">
+@import url('/pub/System/SkinTemplates/base.css');
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/PatternSkinTheme2009/layout.css');
+@import url('/pub/System/PatternSkinTheme2009/style.css');
+@import url('/pub/System/PatternSkinTheme2009/colors.css');
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/PatternSkinTheme2009/column_left.css');
+@import url('/pub/System/PatternSkinTheme2009/variant_twiki.css');
+</style><style type="text/css" media="all">
+	/* Styles that are set using variables */
+	.patternBookView .foswikiTopRow,
+	.patternWebIndicator a img,
+	.patternWebIndicator a:hover img {
+		background-color:#FFD8AA;
+	}
+	#patternTopBarContents { background-image:url(/pub/System/PatternSkin/header5.gif); background-repeat:repeat-x;}
+#patternTopBarContents { background-color:#ffffff;}
+.patternBookView {
+	border-color:#FFD8AA;
+}
+.patternPreviewPage #patternMain {
+	/* uncomment to set the preview image */
+	/*background-image:url("/pub/System/PreviewBackground/preview2bg.gif");*/
+}
+</style>
+<style type="text/css" media="all">
+	@import url("/pub/System/PsiSkin/psicolors.css");
+	@import url("/pub/System/PsiSkin/psistyle.css");	
+.foswikiTopic {overflow: hidden;}
+</style>
+	
+<style type="text/css" media="all">@import url('/pub/PSI/Search/solr.css');</style>
+<style type="text/css" media="print">
+	@import url("/pub/System/PatternSkin/print.css");
+</style><link rel='stylesheet' href='/pub/System/SolrPlugin/pattern.css' type='text/css' media='all' />
+<!--[if IE]><style type="text/css" media="screen">
+pre {
+	height:1%;
+	overflow-x:auto;
+}
+.foswikiAttachments,
+.foswikiForm,
+.foswikiHelp,
+.foswikiPreviewArea,
+.patternPreviewPage .foswikiForm,
+.patternSigLine,
+.patternToolBar,
+.patternTop,
+.patternTopicAction,
+#patternSideBarContents .patternLeftBarPersonal,
+#patternSideBarContents h2,
+#patternSideBarContents li,
+#patternTopBarButtons ul {
+	height:1%;
+}
+#patternSideBarContents .patternLeftBarPersonal {
+	width:100%;
+}
+.foswikiFormStep {
+	height:100%;
+}
+#foswikiLogin,
+.patternShadow {
+	border:10px solid #fff;
+	margin-top:10px;
+	margin-bottom:10px;
+	border:2px solid #ccc;
+}
+</style><![endif]-->
+<!--[if gt IE 8 ]><style type="text/css" media="screen">
+#foswikiLogin,
+.patternShadow {
+	border:10px solid #fff;
+	margin-top:10px;
+	margin-bottom:10px;
+	box-shadow: 0 0 10px #ccc;
+}
+</style><![endif]-->
+
+	
+<script src="https://intranet.psi.ch/pub/System/ChecklistPlugin/itemstatechange.js" language="javascript" type="text/javascript"></script><script src="https://intranet.psi.ch/pub/System/TimeTablePlugin/timetabletooltips.js" language="javascript" type="text/javascript"></script><script type='text/javascript' src='/pub/System/JQueryPlugin/jquery-1.9.1.js'></script><!--JQUERYPLUGIN-->
+<link rel='stylesheet' href='/pub/System/JQueryPlugin/plugins/pnotify/jquery.pnotify.default.css?version=1.2.0' type='text/css' media='all' /><!--JQUERYPLUGIN::PNOTIFY-->
+<link rel='stylesheet' href='/pub/System/JQueryPlugin/plugins/button/jquery.button.css?version=1.3' type='text/css' media='all' /><!--JQUERYPLUGIN::BUTTON-->
+<link rel='stylesheet' href='/labels/style/labels.css' type='text/css'>
+      <link rel='stylesheet' href='/labels/support/jquery.fancybox.css' type='text/css'>
+      <link rel='stylesheet' href='/labels/support/jquery.fancybox-buttons.css' type='text/css'><!--9682-->
+<link rel='stylesheet' href='/pub/System/JQTwistyContrib/jquery.twisty.css?version=1.1.0' type='text/css' media='all' /><!--JQUERYPLUGIN::JQTWISTY-->
+<link rel='stylesheet' href='/pub/System/JQueryPlugin/plugins/blockui/jquery.blockUI.css?version=2.59' type='text/css' media='all' /><!--JQUERYPLUGIN::BLOCKUI-->
+<link rel='stylesheet' href='/pub/System/JQueryPlugin/plugins/loader/jquery.loader.css?version=1.01' type='text/css' media='all' /><!--JQUERYPLUGIN::LOADER-->
+<link rel='stylesheet' href='/pub/System/JQPrettyPhotoContrib/jquery.prettyPhoto.css?version=3.0' type='text/css' media='all' /><!--JQUERYPLUGIN::PRETTYPHOTO-->
+<link rel="stylesheet" href="/pub/System/JQueryPlugin/themes/foswiki/jquery-ui.css" type="text/css" media="all" /><!--JQUERYPLUGIN::THEME-->
+<script type='text/javascript' src='/pub/System/JQGridPlugin/i18n/grid.locale-en.js?version=4.4.0'></script><!--JQUERYPLUGIN::GRID::LANG-->
+<link rel='stylesheet' href='/pub/System/JQGridPlugin/css/jquery.jqgrid.css?version=4.4.0' type='text/css' media='all' /><!--JQUERYPLUGIN::GRID-->
+<link rel="stylesheet" href="/pub/System/ClassificationPlugin/styles.css" media="all" /><!--CLASSIFICATIONPLUGIN-->
+<link rel='stylesheet' href='/pub/System/JQSerialPagerContrib/jquery.serialpager.css?version=1.0' type='text/css' media='all' /><!--JQUERYPLUGIN::SERIALPAGER-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/migrate/jquery.migrate.js?version=1.2.1'></script><!--JQUERYPLUGIN::MIGRATE-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/livequery/jquery.livequery.js?version=1.3.1'></script><!--JQUERYPLUGIN::LIVEQUERY-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/foswiki/jquery.foswiki.js?version=2.01'></script><!--JQUERYPLUGIN::FOSWIKI-->
+<script type='text/javascript'>
+jQuery.extend(foswiki, {
+ "preferences": {
+    "PUBURL": "https://intranet.psi.ch/pub",
+    "PUBURLPATH": "/pub",
+    "SCRIPTSUFFIX": "",
+    "SCRIPTURL": "https://intranet.psi.ch/wiki/bin",
+    "SCRIPTURLPATH": "/wiki/bin",
+    "SERVERTIME": "19 Mar 2014 - 13:48",
+    "SKIN": "psiskin, pattern",
+    "SYSTEMWEB": "System",
+    "TOPIC": "Search",
+    "USERNAME": "buecklers_t",
+    "USERSWEB": "Main",
+    "WEB": "PSI",
+    "WIKINAME": "ThomasBuecklers",
+    "WIKIUSERNAME": "Main.ThomasBuecklers",
+    "NAMEFILTER": "[\s\*?~^\$@%`\"'&;|<>\[\]#\x00-\x1f]"
+}});
+</script><!--JQUERYPLUGIN::FOSWIKI::PREFERENCES-->
+<script type='text/javascript'>
+jQuery.extend(foswiki.preferences, {
+   "TopicInteractionPlugin.silverlightUrl" : "/pub/System/TopicInteractionPlugin/plupload.silverlight.xap",
+   "TopicInteractionPlugin.flashUrl" : "/pub/System/TopicInteractionPlugin/plupload.flash.swf",
+   "TopicInteractionPlugin.attachFileSizeLimit" : "10000",
+   "TopicInteractionPlugin.Runtimes" : "html5, flash, silverlight, gears, browserplus, html4"
+}
+);
+</script><!--JQUERYPLUGIN::UPLOADER::META-->
+<script type='text/javascript' src='/pub/System/TopicInteractionPlugin/plupload.js?version=1.3.0'></script>
+<script type='text/javascript' src='/pub/System/TopicInteractionPlugin/plupload.html5.js?version=1.3.0'></script>
+<script type='text/javascript' src='/pub/System/TopicInteractionPlugin/plupload.flash.js?version=1.3.0'></script>
+<script type='text/javascript' src='/pub/System/TopicInteractionPlugin/plupload.silverlight.js?version=1.3.0'></script>
+<script type='text/javascript' src='/pub/System/TopicInteractionPlugin/gears.init.js?version=1.3.0'></script>
+<script type='text/javascript' src='/pub/System/TopicInteractionPlugin/plupload.gears.js?version=1.3.0'></script>
+<script type='text/javascript' src='/pub/System/TopicInteractionPlugin/browserplus.init.js?version=1.3.0'></script>
+<script type='text/javascript' src='/pub/System/TopicInteractionPlugin/plupload.browserplus.js?version=1.3.0'></script>
+<script type='text/javascript' src='/pub/System/TopicInteractionPlugin/plupload.html4.js?version=1.3.0'></script><!--JQUERYPLUGIN::UPLOADER::ENGINES-->
+<link rel='stylesheet' href='/pub/System/TopicInteractionPlugin/jquery.uploader.css?version=1.3.0' type='text/css' media='all' /><!--JQUERYPLUGIN::UPLOADER: requires= missing ids: JQUERYPLUGIN::JAVASCRIPTFILES/FOSWIKIPREF-->
+<meta name="foswiki.TWISTYANIMATIONSPEED" content="fast" /><!--TWISTYPLUGIN::META-->
+<link rel='stylesheet' href='/pub/System/JQueryPlugin/plugins/textboxlist/jquery.textboxlist.css?version=1.01' type='text/css' media='all' /><!--JQUERYPLUGIN::TEXTBOXLIST-->
+<link rel='stylesheet' href='/pub/System/JQueryPlugin/plugins/tabpane/jquery.tabpane.css?version=1.2.1' type='text/css' media='all' /><!--JQUERYPLUGIN::TABPANE-->
+<link rel='stylesheet' href='/pub/System/NatEditPlugin/styles.css?version=3.03' type='text/css' media='all' /><!--JQUERYPLUGIN::NATEDIT-->
+<link rel='stylesheet' href='/webbase/css/oscar.css' type='text/css'>
+<!--  	<link rel='stylesheet' href='/labels/style/bubbles.css' type='text/css'> -->
+        <link rel='stylesheet' href='/labels/support/jquery.qtip.css' type='text/css'><!--3354-->
+<link rel='stylesheet' href='/pub/System/NatEditPlugin/default/styles.css?version=3.03' type='text/css' media='all' /><!--JQUERYPLUGIN::NATEDIT::THEME-->
+<link rel='stylesheet' href='/pub/System/JQueryPlugin/plugins/treeview/jquery.treeview.css?version=1.4' type='text/css' media='all' /><!--JQUERYPLUGIN::TREEVIEW-->
+<link rel='stylesheet' href='/pub/System/SolrPlugin/solrplugin.css' type='text/css' media='all' /><!--SOLRPLUGIN-->
+<link rel="stylesheet" href="/pub/System/EditChapterPlugin/ecpstyles.css" type="text/css" media="all" /><!--EDITCHAPTERPLUGIN-->
+<link rel='stylesheet' href='/script/solrglossar/glossar.css' type='text/css' media='all' /><!--GLOSSAR-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/metadata/jquery.metadata.js?version=2.1ef2bb44c86f5d0e98d55'></script><!--JQUERYPLUGIN::METADATA-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/easing/jquery.easing.js?version=1.3'></script><!--JQUERYPLUGIN::EASING-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/ui/jquery-ui.js?version=1.10.3'></script><!--JQUERYPLUGIN::UI-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/pnotify/jquery.pnotify.js?version=1.2.0'></script><!--JQUERYPLUGIN::PNOTIFY-->
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiString.js"></script><!--JavascriptFiles/foswikiString-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/button/jquery.button.init.js?version=1.3'></script><!--JQUERYPLUGIN::BUTTON-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/hoverintent/jquery.hoverIntent.js?version=r7'></script><!--JQUERYPLUGIN::HOVERINTENT-->
+<script type='text/javascript' src='/pub/System/JQMomentContrib/moment.js?version=2.0.0'></script><!--JQUERYPLUGIN::MOMENT-->
+<script type='text/javascript' src='/pub/System/JQTwistyContrib/jquery.twisty.js?version=1.1.0'></script><!--JQUERYPLUGIN::JQTWISTY-->
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiPref.js"></script><!--JavascriptFiles/foswikiPref-->
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiForm.js"></script><!--JavascriptFiles/foswikiForm-->
+<script type="text/javascript" src="/pub/System/PatternSkin/pattern.js"></script><!--PatternSkin/pattern-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/blockui/jquery.blockUI.js?version=2.59'></script>
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/blockui/jquery.blockUI.init.js?version=2.59'></script><!--JQUERYPLUGIN::BLOCKUI-->
+<script type='text/javascript' src='/pub/System/JQMomentContrib/lang/de.js'></script><!--MOMENT::LANG: requires= missing ids: MOMENT-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/loader/jquery.loader.js?version=1.01'></script><!--JQUERYPLUGIN::LOADER-->
+<script type='text/javascript' src='/pub/System/JQPrettyPhotoContrib/jquery.prettyPhoto.js?version=3.0'></script>
+<script type='text/javascript' src='/pub/System/JQPrettyPhotoContrib/jquery.prettyPhoto.init.js?version=3.0'></script><!--JQUERYPLUGIN::PRETTYPHOTO-->
+<script type='text/javascript' src='/pub/System/JQGridPlugin/jquery.jqgrid.js?version=4.4.0'></script>
+<script type='text/javascript' src='/pub/System/JQGridPlugin/jquery.jqgrid.init.js?version=4.4.0'></script><!--JQUERYPLUGIN::GRID-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/scrollto/jquery.scrollTo.js?version=1.4.6'></script>
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/scrollto/jquery.scrollTo.init.js?version=1.4.6'></script><!--JQUERYPLUGIN::SCROLLTO-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/tmpl/jquery.tmpl.js?version=1.0.0pre'></script><!--JQUERYPLUGIN::TMPL-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/serialscroll/jquery.serialScroll.js?version=1.2.2'></script><!--JQUERYPLUGIN::SERIALSCROLL-->
+<script type='text/javascript' src='/pub/System/JQSerialPagerContrib/jquery.serialpager.js?version=1.0'></script><!--JQUERYPLUGIN::SERIALPAGER-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/ui/jquery.ui.dialog.init.js?version=1.10.3'></script><!--JQUERYPLUGIN::UI::DIALOG-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/form/jquery.form.js?version=3.32'></script><!--JQUERYPLUGIN::FORM-->
+<script type='text/javascript' src='/pub/System/TopicInteractionPlugin/jquery.uploader.js?version=1.3.0'></script><!--JQUERYPLUGIN::UPLOADER: requires= missing ids: JQUERYPLUGIN::JAVASCRIPTFILES/FOSWIKIPREF-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/bgiframe/jquery.bgiframe.js?version=2.1.2'></script><!--JQUERYPLUGIN::BGIFRAME-->
+<script>
+jQuery(function($) {
+  $('#solrSearchForm').submit(function() {
+	 var $this = $(this),
+		  action = $this.attr('action'),
+		  search = $this.find("input[name='search']"),
+		  href = action + ((search && search.val())?'#q='+search.val():'');
+	href = href + '&search='+search.val();
+	 window.location.href = href;
+	 return false;
+  });
+});
+</script><!--4370-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/focus/jquery.focus.js?version=1.0.1'></script><!--JQUERYPLUGIN::FOCUS-->
+<script type='text/javascript'>
+         var web = 'PSI'; var topic = 'Search';
+         var PSIWebLabelsPath = '/labels/';
+      </script>
+      <script src='/labels/script/labels.js' type='text/javascript'></script>
+      <script src='/labels/support/jquery.fancybox.pack.js' type='text/javascript'></script><!--6770-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/textboxlist/jquery.textboxlist.js?version=1.01'></script>
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/textboxlist/jquery.textboxlist.init.js?version=1.01'></script><!--JQUERYPLUGIN::TEXTBOXLIST-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/validate/jquery.validate.js?version=1.11.0'></script>
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/validate/jquery.validate.methods.js?version=1.11.0'></script>
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/validate/jquery.validate.init.js?version=1.11.0'></script><!--JQUERYPLUGIN::VALIDATE-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/tabpane/jquery.tabpane.js?version=1.2.1'></script>
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/tabpane/jquery.tabpane.init.js?version=1.2.1'></script><!--JQUERYPLUGIN::TABPANE-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/ui/jquery.ui.autocomplete.init.js?version=1.10.3'></script><!--JQUERYPLUGIN::UI::AUTOCOMPLETE-->
+<script type='text/javascript' src='/pub/System/NatEditPlugin/edit.js?version=3.03'></script>
+<script type='text/javascript' src='/pub/System/NatEditPlugin/jquery.natedit.js?version=3.03'></script><!--JQUERYPLUGIN::NATEDIT-->
+<!--<script src='/pub/System/SolrPlugin/solr-searchbox.js'></script><!--SOLRPLUGIN::SEARCHBOX-->
+<!--<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/validate/localization/messages_de.js'></script><!--JQUERYPLUGIN::VALIDATE::LANG-->
+<!--<script type='text/javascript' src='/pub/System/SolrPlugin/ajax-solr.js'></script><!-- -->
+<!--<script type='text/javascript' src='/pub/System/SolrPlugin/ajax-solr-widgets.js'></script><!-- -->
+<!--<script type='text/javascript' src='/pub/System/SolrPlugin/ajax-solr-init.js'></script><!--SOLRPLUGIN::AJAX-->
+<script type='text/javascript' src='/pub/System/JsonRpcContrib/jquery.jsonrpc.js?version=1.0'></script><!--JQUERYPLUGIN::JSONRPC-->
+<script>jQuery.extend(foswiki.preferences, { 
+  'MathModePluginEnabled': true,
+  'ImagePluginEnabled': true,
+  'TopicInteractionPluginEnabled': true 
+});</script><!--NATEDIT::ENABLEDPLUGINS-->
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/treeview/jquery.treeview.js?version=1.4'></script>
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/treeview/jquery.treeview.async.js?version=1.4'></script>
+<script type='text/javascript' src='/pub/System/JQueryPlugin/plugins/treeview/jquery.treeview.init.js?version=1.4'></script><!--JQUERYPLUGIN::TREEVIEW-->
+<script type="text/javascript" src="/pub/System/EditChapterPlugin/ecpjavascript.js"></script><!--EDITCHAPTERPLUGIN-->
+
+
+
+<!-- Search integration Thomas -->
+<script type="text/javascript" src="script/javascript_config.php"></script><!-- where am I installed? -->
+<script type="text/javascript" src="/script/angularjs/1.2.15/angular.min.js"></script><!--Angular-->
+<script type="text/javascript" src="/script/angularjs/1.2.15/angular-sanitize.js"></script>
+<script type="text/javascript" src="/script/angularjs/1.2.15/ui-bootstrap-tpls-0.10.0.min.js"></script><!---- Angular UI für paging --->
+<script type="text/javascript" src="/script/bootstrap/bootstrap-3.1.1/js/bootstrap.js"></script>
+<link rel="stylesheet" href="/script/bootstrap/bootstrap-3.1.1/css/bootstrap.css" type="text/css">
+<script type="text/javascript" src="script/search.js"></script><!---Angular search app--->
+<link rel="stylesheet" href="style/angsearch.css" type="text/css"
+
+
+
+
+
+</head>
+<body class="foswikiNoJs patternViewPage" ng-app="searchApp">
+<a name="PageTop"></a><div class="foswikiPage"><div id="patternScreen">
+<div id="patternPageShadow">
+<div id="patternPage" ng-controller="resultListCtrl">
+<div id="patternWrapper"><div id="patternOuter">
+<div id="patternFloatWrap">
+<div id="patternMain"><div id="patternClearHeaderCenter"></div>
+<div id="patternMainContents"><div class="patternTop"><span class="patternHomePath foswikiLeft"><a href="/PSI/WebHome" class="foswikiCurrentWebHomeLink">Willkommen im PSI Intranet</a><span class='natSep'>&nbsp;&#187; </span><a href="/PSI/Search" class="foswikiCurrentTopicLink">Search</a></span><span class="patternToolBar foswikiRight"></span><div class="foswikiClear"></div></div><div class="foswikiContentHeader">
+<p></p>
+<p></p>
+      <div id="starwrapper"><div id="star"><span id="label_staricon" class="star">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;<span id="label_startext" class="startext">Mark as Favorite</span></div></div>
+<p></p>
+<p></p>
+      	<script src='/labels/script/oscar.js' type='text/javascript'></script>
+      	<script src='/labels/script/bubbles.js' type='text/javascript'></script>
+      	<script src='/labels/support/jquery.qtip.js' type='text/javascript'></script>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div><div class="patternContent"><div class="foswikiTopic">
+
+
+<div>
+<div id='solrSearch'  >
+
+<!-- -->
+<div class='solrHeader'>
+<!-- -->
+<!-- -->
+<form name="searchform" class='solrSearchForm' id='solrSearchBox' data-instant-search='true'>
+<div class='foswikiFormSteps'>
+<!-- -->
+<!-- -->
+<div class='foswikiFormStep'>
+<div class='foswikiLeft'>
+<table class='foswikiNullTable' >
+  <tr>
+	 <td>
+		<input type='text' autocomplete='off' class='foswikiInputField jqFocus solrSearchField' size='50' style='margin-right:8px;' value="{{searchTerm}}" ng-model="searchTerm" ng-change="searchWDelay()" ng-keypress="keyPressed($event)" >
+	 </td>
+	 <td>
+		<a  class='jqButton solrSubmitButton' ng-click="search(true)" href='' title='submit the query' ><span> <span class='jqButtonIcon' style='background-image:url(/pub/System/FamFamFamSilkIcons/find.png)'>Suchen</span> </span></a><input type='submit' style='display:none' />
+	 </td>
+  </tr>
+</table>
+<div class='solrCheckboxContainer'>
+<!-- -->
+<span class='solrToggleFacet' data-field='web' data-value='PSI' data-title='In current web'></span>
+
+<span class='solrToggleFacet' data-field='contributor' data-value='ThomasBuecklers' data-title='In my contributions'></span>
+<!-- --><!-- -->
+</div><!-- -->
+</div>
+<div class='foswikiRight'>
+<!-- -->
+<table class='foswikiNullTable'>
+  <tr>
+	 <th>Sort by:&nbsp;</th>
+	 <td>
+		<select ng-model="orderProp" class="foswikiSelect" ng-change="search()">
+			<option value="score desc">Relevance</option>
+			<option value="date desc">Last changed</option>
+			<option value="title_sort asc">Name</option>
+		</select>
+	 </td>
+  </tr>
+</table>
+<!-- --><!-- -->
+<!-- -->
+<!-- <table class='foswikiLayoutTable'>
+  <tr>
+	 <th>Display as:</th>
+	 <td>
+		<input type='radio' class='foswikiRadio solrDisplay' id='display_list' value='list' name='display'>
+		<label class='foswikiLabel' for='display_list'>list</label>
+	 </td>
+	 <td>
+		<input type='radio' class='foswikiRadio solrDisplay' id='display_grid' value='grid' name='display'>
+		<label class='foswikiLabel' for='display_grid'>grid</label>
+	 </td>
+  </tr>
+</table> -->
+<!-- --><!-- -->
+</div>
+
+<span class='foswikiClear'></span>
+</div>
+<!-- -->
+<!-- -->
+<!--<div class='foswikiFormStep solrTagCloud' data-field='tag' data-start-color="[111, 169, 255]" data-end-color='[0, 89, 224]'>
+  <div class='foswikiFormStep foswikiFormLast'>
+	 <hr />
+	 <h3><a href='#' class='jqTwisty' data-target='.solrTagCloudContainer' data-open-img='/pub/System/SolrPlugin/toggle-collapse.png' data-close-img='/pub/System/SolrPlugin/toggle.png'>Popular tags</a></h3>
+	 <div class='solrTagCloudContainer tagCloud'></div>
+  </div>
+</div> -->
+<!-- -->
+<!-- -->
+</div>
+</form>
+<!-- -->
+<!-- -->
+<div class='solrSpellchecking' ng-show="suggestions.length > 0">
+
+	Did you mean <span ng-repeat="suggestion in suggestions"><a  class="solrCorrection" href="" ng-click="searchSuggestion(suggestion)"> {{suggestion}}</a> <span ng-show="!$last">or</span> </span>
+
+
+
+</div>
+<div class='solrResultsPerPage' ng-show="searchDone">
+	<table class='foswikiNullTable' width='100%'>
+	  <tr>
+		 <td>
+			<div ng-show="success">
+			 Results {{from}} - {{to}} of {{numFound}}	</b>
+			</div>
+			<div ng-hide="success">
+			  <span class="foswikiAlert">nothing found</span>
+			</div>
+		 </td>
+		 <td align="right">
+			<table class='foswikiNullTable solrRows'>
+			  <tr>
+				 <th>Results per page:</th>
+				 <td>
+					<select class='foswikiSelect' ng-model="rows" ng-change="search()">
+					  <option class='foswikiOption' value="5">5</option>
+					  <option class='foswikiOption' value="10">10</option>
+					  <option class='foswikiOption' value="20">20</option>
+					  <option class='foswikiOption' value="30">30</option>
+					  <option class='foswikiOption' value="40">40</option>
+					  <option class='foswikiOption' value="50">50</option>
+					  <option class='foswikiOption' value="100">100</option>
+					</select>
+				 </td>
+			  </tr>
+			</table>
+		 </td>
+	  </tr>
+	</table>
+</div>
+
+</div>
+<!-- 		<div class="glossarBereich">
+			<h3>Ergebnisse aus Glossar</h3> -->
+			<!-- --> <hr> <!-- -->
+<!-- 			<p></p>
+			<script src="/script/solrglossar/glossarScript_new.js">
+			</script>
+			<p></p>
+			<div id="result" style="margin-top: 15px">
+			</div>
+		</div> -->
+	<!-- -->
+<p></p>
+	 <!-- -->
+
+<div class='solrFooter' ng-show="searchDone">
+	<pagination total-items="numFound" page="start/rows+1" items-per-page="rows" max-size="5" class="pagination-sm" boundary-links="true" rotate="true" on-select-page="setPage(page)" ng-show="success"></pagination>
+</div>
+
+</div>
+
+<script type="text/ng-template" id="topic">
+
+		<div class='solrSearchHit solrTopicHit'>
+			<h3 ng-show="result.icon" style='background-image:url({{result.icon}}); background-repeat: no-repeat; padding-left: 20px' >
+				<a href='{{result.url}}' >{{result.title}}</a>
+				<span class='foswikiGrayText foswikiSmallish solrContainerLink'> in <a href='{{result.container_url}}'>{{result.container_title}}</a></span>
+				<span ng-show="result.field_CurrentState_s" ng-class="result.field_CurrentState_s">Task: {{result.field_CurrentState_s}}</span>
+				{{result.field_TopicType_lst}}
+			</h3>
+	<h3 ng-hide="result.icon" style='background-image:url(/pub/System/FamFamFamSilkIcons/page_white.png)' >			
+				<a href='{{result.url}}' >{{result.title}}</a>
+				<span class='foswikiGrayText foswikiSmallish solrContainerLink'> in <a href='{{result.container_url}}'>{{result.container_title}}</a></span>
+	 </h3>
+		  <div class='solrHilite' ng-bind-html="highLighting[result.id].text[0]"></div>
+		  <div class='solrRevision'>
+			 {{result.date | date:'EEEE, d. MMMM yyyy, HH:mm'}}, {{result.author}}
+		  </div>
+		</div>		
+</script>
+
+<script type="text/ng-template" id="image" >
+  <div class='solrSearchHit solrImageHit'>
+	 <div class='solrImageFrame'>
+		<a class='imageHref imageSimple' href='{{result.url}}' title='{{result.name}}'>
+		  <img src='/wiki/bin/rest/ImagePlugin/resize?topic={{result.web}}.{{result.topic}};file={{result.name}};size=64>;crop=on' alt='{{result.name}}' />
+		</a>
+	 </div>
+	 <h3>
+		<a href='{{result.url}}'>{{result.name}}</a>
+		<span class='foswikiGrayText foswikiSmallish solrContainerLink'>
+		  in <a href='{{result.container_url}}'>{{result.container_title}}</a>
+		</span>
+	
+		  <div class='foswikiGrayText foswikiSmallish solrSearchHitSummary' ng-show="result.comment">{{result.comment}}</div>
+	
+	 </h3>
+	 <div class='solrHilite'>
+		{{highLighting[result.id].text[0]}}
+	 </div>
+	 <div class='solrRevision'> 
+		{{result.date | date:'EEEE, d. MMMM yyyy, HH:mm'}}, {{result.author}}
+	 </div>
+	 <span class='foswikiClear'></span>
+  </div>
+</script>
+	<div  ng-show="searchDone">
+	<div  ng-repeat="result in results" class='solrSearchHits solrSearchHitsList'>
+	<!--{{result.type}}-->
+		<div ng-include="result.tmpl"></div>
+	</div>
+	</div>
+	<div ng-hide="searchDone" class="solrSpellchecking">
+		Please insert a search term or use one of the filters on the left.
+	</div>
+
+</div>
+<div class='solrFooter' ng-show="searchDone && rows >= 20">
+	<pagination total-items="numFound" page="start/rows+1" items-per-page="rows" max-size="5" class="pagination-sm" boundary-links="true" rotate="true" on-select-page="setPage(page)" ng-show="success"></pagination>
+</div>
+
+<!--- Facet general template -->
+
+<script type="text/ng-template" id="facetFieldTmpl">
+		<table class='foswikiLayoutTable' width='100%'>
+				<tr>
+			<td class='td-checkbox' >
+				  <input type='checkbox' name='{{item.title}}' title='{{item.title}}' value='{{item.value}}' id='{{item.id}}' autocomplete='off' class='solrFacetValue' ng-model="item.checked" ng-click="(item.checked==false)? (item.checked = true) : (item.checked = false); search(true); "/>
+				</td>
+<!-- PSI Spezifisch - Title zu label hinzugefügt --> 
+				 <td class='dt_label'><label for='{{item.title}}' style='display:block' title='{{item.title}} '>{{item.title}} ({{item.count}})</label></td>
+				</tr>
+		</table>
+</script>		
+<!--- /Facet general template -->
+
+
+<script id="solrSpellCorrectionTemplate" type="text/x-jquery-tmpl">
+Did you mean {{each suggestions}}{{if $index > 0}} or {{/if}} <a class='solrCorrection' href='#'>${$value}</a>{{/each}}?
+</script>
+<!-- --><!-- -->
+
+
+<!-- -->
+</div>
+<div class="foswikiContentFooter"></div></div><div class="patternInfo"><span class="patternRevInfo">Topic-Revision: r5 - 30 Aug 2013, schaub_o-adm</span></div>
+</div>
+</div>
+<div id="patternSideBar"><div id="patternClearHeaderLeft"></div>
+<div id="patternSideBarContents"><!-- -->
+<!-- --><div class='solrYourSelection'>
+<h2><a name="Search_in"></a> Search in </h2>
+<p></p>
+<strong style='color: black;'><img width='16' height='16' alt='' src='/pub/System/DocumentGraphics/psi.png'> PSI-Intranet</strong></br>
+<a href='/PSI/DMSSearch' onclick="window.location.href = window.location.protocol+'//'+window.location.host+'/PSI/DMSSearch?search='+$('.solrSearchField').val(); return false;" style='color: black;'><img width='16' height='16' alt='' src='/pub/System/DocumentGraphics/alfresco.png'> PSI DMS</a>
+</div>
+<p></p>
+<h2><a name="Filter_results"></a> Filter results </h2>
+<div id='solrCurrentSelection'>
+  <h3>Your selection:</h3>
+  <ul>
+	 <li class='solrNoSelection' ng-repeat="item in yourSelection">
+		<table class="foswikiLayoutTable" width="100%">
+			<tbody>
+				<tr>
+					<td width="12px">
+						<input type="checkbox" name="{{item.id}}" title="{{item.name}}" class="solrFacetValue" ng-model="item.checked" ng-click="resetFacet(item.id, item.sysname)"/>					
+					</td>
+					<td class="td_label">
+						<label for="{{item.name}}" style="display:block" title="{{item.name}}">{{item.selection}} ({{item.name}})</label>						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	 </li>
+  </ul>
+  <a href='#' class="solrClear">Clear</a>
+  <span class='foswikiClear'></span>
+</div>
+
+<!-- Facets -->
+
+<div style="{{webStyle}}">
+	<input ng-model="webquery" class="query_search">
+	<h2 class='jqTwisty' data-initial-state='open' data-open-img='/pub/System/SolrPlugin/toggle-collapse.png' data-close-img='/pub/System/SolrPlugin/toggle.png'>Web</h2>
+		<ul class="facetList">
+			<li ng-repeat="item in web | filter:webquery | orderBy:'title':false">
+				<div ng-include="'facetFieldTmpl'">
+				</div>
+			</li>
+		</ul>
+</div>
+
+<div style="{{mediaStyle}}">
+	<input ng-model="mediaquery" class="query_search">
+	<h2 class='jqTwisty' data-initial-state='open' data-open-img='/pub/System/SolrPlugin/toggle-collapse.png' data-close-img='/pub/System/SolrPlugin/toggle.png'>Media</h2>
+	<div>
+		<ul class="facetList">
+			<li ng-repeat="item in media | filter:mediaquery | orderBy:'title'">
+				<div ng-include="'facetFieldTmpl'">
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+
+<div style="{{recentStyle}}" >
+	<!-- <input ng-model="recentquery" class="query_search"> -->
+	<h2 class='jqTwisty' data-initial-state='open' data-open-img='/pub/System/SolrPlugin/toggle-collapse.png' data-close-img='/pub/System/SolrPlugin/toggle.png'>Recent changes</h2>
+		<ul class="facetList">
+			<li ng-repeat="item in recent | filter:resentquery">
+				<div ng-include="'facetFieldTmpl'">
+				</div>
+			</li>
+		</ul>
+</div>
+
+<div style="{{tTypeStyle}}" >
+<input ng-model="typequery" class="query_search">
+<h2 class='jqTwisty' data-initial-state='open' data-open-img='/pub/System/SolrPlugin/toggle-collapse.png' data-close-img='/pub/System/SolrPlugin/toggle.png'>Topic type</h2>
+	<ul class="facetList">
+		<li ng-repeat="item in tType | filter:typequery | orderBy:'title'">
+			<div ng-include="'facetFieldTmpl'">
+			</div>
+		</li>
+	</ul>
+</div>
+
+
+<!-- <div style="{{langStyle}}">
+<h2 class='jqTwisty' data-initial-state='open' data-open-img='/pub/System/SolrPlugin/toggle-collapse.png' data-close-img='/pub/System/SolrPlugin/toggle.png'>Language</h2>
+<carousel interval="-1">
+	<slide ng-repeat="slide in langSlides" active="slide.active">	
+		<ul>
+			<li ng-repeat="item in slide">
+				<div ng-include="'facetFieldTmpl'">
+				</div>
+			</li>
+		</ul>	
+	</slide>
+</carousel>
+</div>
+ -->
+<div style="{{authorStyle}}" >
+<input ng-model="authorquery" class="query_search">
+<h2 class='jqTwisty' data-initial-state='open' data-open-img='/pub/System/SolrPlugin/toggle-collapse.png' data-close-img='/pub/System/SolrPlugin/toggle.png'>Author</h2>
+	<ul class="facetList">
+		<li ng-repeat="item in author | filter:authorquery | orderBy:'title'">
+			<div ng-include="'facetFieldTmpl'">
+			</div>
+		</li>
+	</ul>
+</div>
+
+ <!-- /Facets -->
+
+</div></div>
+</div>
+<div class="clear">&nbsp;</div>
+</div></div><div id="patternTopBar">
+<div id="patternTopBarContentsWrapper">
+<div id="patternTopBarContents"><table border="0" cellpadding="0" cellspacing="0" style="width:100%" summary="">
+<tr><td valign="middle"><span id="foswikiLogo" class="foswikiImage"><a href="/PSI/WebHome"><img src="/pub/Main/WebPreferences/psi_logo_150.gif" border="0" alt="Paul Scherrer Institut" style="border:none; margin: -8px 0 0 15px;" /></a></span></td>
+<td align="right" valign="top" class="patternMetaMenu" id="psimetanav">
+<p></p> <ul>
+<li> <form name="quickSearchForm" id="solrSearchForm" action="/PSI/Search"><input type="hidden" name="filter" value="web:PSI" /><input type="text" class="foswikiInputField" id="quickSearchBox" name="search" value="" size="18" /><input type="hidden" name="scope" value="all" /><!-- <input type="hidden" name="web" value="PSI" /> --> <noscript>&nbsp;<input type="submit" size="5" class="foswikiButton" name="submit" value="Suchen" />&nbsp;</noscript><input type="image" class="searchsubmit" alt="Search" value="Suche..." name="sa" src="/webbase/img/search.png">	</form>
+</li> <li> <form name="changeLanguage"    action="/wiki/bin/oops/PSI/Search" method="get">    <input type="hidden" name="redirectto" value="/PSI/Search?redirectedfrom=System.SolrSearchPSI" />    <select name="language" class="foswikiSelect"        onchange="document.changeLanguage.submit()">    <option selected="selected" value="de">Deutsch</option> <option  value="en">English</option></select>    <input type="hidden" name="template" value="oopslanguagechanged" />    <noscript>        <input class="foswikiButton" type="submit"            value="Sprache wechseln" />    </noscript> </form>
+</li></ul> 
+<p></p>
+<p></p>
+<p></p>
+</td></tr></table>
+</div><!--/patternTopBarContents-->
+</div><!--/patternTopBarContentsWrapper-->
+</div><!-- /patternTopBar--><div id="patternBottomBar"><div id="patternBottomBarContents"><div id="patternWebBottomBar">Ideas, requests, problems regarding <a href="/Main/WebHome">PSI Wiki</a>? <a href="mailto&#58;psi&#46;intranet&#64;psi&#46;ch&#63;subject&#61;PSI&#32;Wiki&#37;20Feedback&#37;20on&#37;20PSI&#46;Search">Send feedback</a></div></div></div>
+</div>
+</div>
+</div>
+</div></div><!-- /endWrap -->
+<p></p>
+<!-- Piwik -->
+<script type="text/javascript" src="/piwik/piwik.js"></script>
+<script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker("/piwik/piwik.php", 7);
+piwikTracker.setCustomUrl("/PSI/Search");
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="/piwik/piwik.php?idsite=7" style="border:0" alt=""></p></noscript>
+<!-- End Piwik Tag -->
+
+</body>
+</html>

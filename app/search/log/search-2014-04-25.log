@@ -1,0 +1,9 @@
+2014-04-25T09:04:17+02:00 [SearchLogger] user list not found
+2014-04-25T09:04:17+02:00 [SearchLogger] unknown wikiuser
+2014-04-25T09:04:17+02:00 [SearchLogger] searcher anonymous --- respT: 23ms, 26892 results, q=, 
+2014-04-25T14:01:27+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 37ms, 77759 results, q=, 
+2014-04-25T16:05:40+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 86ms, 77772 results, q=, 
+2014-04-25T16:05:52+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 27ms, 618 results, q=google, 
+2014-04-25T16:06:04+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 15ms, 86 results, web:(PSIWeb), q=google, 
+2014-04-25T16:06:13+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 16ms, 80 results, type:topic, web:(PSIWeb), q=google, 
+2014-04-25T16:06:22+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 14ms, 3 results, type:topic, web:(PSIWeb), date:[NOW-1MONTH TO NOW], q=google, 

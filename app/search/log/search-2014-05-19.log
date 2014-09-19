@@ -1,0 +1,24 @@
+19.05.2014 07:40:14,620 - INFO  - searcher identified --- respT: 10ms, 1 results, web:(AIT.Controls), q=, 
+19.05.2014 07:40:26,282 - INFO  - searcher identified --- respT: 10ms, 1 results, web:(AIT.Controls), q=, 
+19.05.2014 07:40:40,001 - INFO  - searcher identified --- respT: 11ms, 1 results, web:(AIT.Controls), q=, 
+19.05.2014 07:48:48,646 - INFO  - searcher identified --- respT: 9ms, no results, web:(AIT.Controls), q=buecklers, 
+19.05.2014 07:48:49,792 - INFO  - searcher identified --- respT: 49ms, 13 results, q=buecklers task, 
+19.05.2014 07:51:35,082 - INFO  - searcher identified --- respT: 14ms, 933 results, web:(PSIWeb), q=, 
+19.05.2014 09:37:35,589 - INFO  - mapping file sync started
+19.05.2014 09:37:36,146 - ERROR - file successfully updated
+19.05.2014 11:01:02,095 - INFO  - searcher identified --- respT: 47ms, 82281 results, q=, 
+19.05.2014 11:01:12,108 - INFO  - searcher identified --- respT: 16ms, 5698 results, q=syn, 
+19.05.2014 11:01:21,533 - INFO  - searcher identified --- respT: 24ms, 101 results, q=syntr, 
+19.05.2014 11:01:23,998 - INFO  - searcher identified --- respT: 11ms, 1 results, q=syntroncs, 
+19.05.2014 13:33:18,197 - INFO  - searcher identified --- respT: ms, no results, q=, 
+19.05.2014 13:33:24,770 - INFO  - searcher identified --- respT: 5ms, 845 results, type:topic, web:(PSIWeb), q=*:*, 
+19.05.2014 13:33:37,944 - INFO  - searcher identified --- respT: 7ms, 845 results, type:topic, web:(PSIWeb), q=*:*, 
+19.05.2014 13:33:45,098 - INFO  - searcher identified --- respT: 5ms, 845 results, type:topic, web:(PSIWeb), q=*:*, 
+19.05.2014 13:34:39,190 - ERROR - unknown wikiuser
+19.05.2014 13:34:39,261 - INFO  - searcher anonymous --- respT: 7ms, 389 results, type:topic, web:(PSIWeb), q=*:*, 
+19.05.2014 13:43:07,785 - INFO  - searcher identified --- respT: 6ms, 845 results, type:topic, web:(PSIWeb), q=*:*, 
+19.05.2014 14:31:12,055 - INFO  - searcher identified --- respT: 43ms, 78889 results, q=, 
+19.05.2014 14:31:16,825 - INFO  - searcher identified --- respT: 12ms, 287 results, q=oase, 
+19.05.2014 14:31:23,131 - INFO  - searcher identified --- respT: 15ms, 19 results, web:(PSIWeb), q=oase, 
+19.05.2014 14:31:45,160 - INFO  - searcher identified --- respT: 52ms, 19 results, web:(PSIWeb), q=oase, page turned
+19.05.2014 14:31:55,162 - INFO  - searcher identified --- respT: 18ms, 15 results, type:topic, web:(PSIWeb), q=oase, page turned

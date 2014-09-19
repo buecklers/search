@@ -1,0 +1,9 @@
+22.05.2014 07:35:00,418 - INFO  - searcher identified --- respT: 6ms, 854 results, type:topic, web:(PSIWeb), q=*:*, 
+22.05.2014 10:27:17,005 - INFO  - searcher identified --- respT: 19ms, 5101 results, web:(PSIWeb), q=, 
+22.05.2014 14:31:47,714 - INFO  - searcher identified --- respT: 86ms, 70886 results, q=, 
+22.05.2014 14:31:52,520 - INFO  - searcher identified --- respT: 18ms, 3 results, q=unx-nogroup, 
+22.05.2014 15:41:37,148 - ERROR - unknown wikiuser
+22.05.2014 15:41:37,257 - INFO  - searcher anonymous --- respT: 35ms, 390 results, type:topic, web:(PSIWeb), q=*:*, 
+22.05.2014 18:04:03,495 - INFO  - searcher identified --- respT: 38ms, 63429 results, q=, 
+22.05.2014 18:04:23,418 - INFO  - searcher identified --- respT: 21ms, 491 results, q=merlin, 
+22.05.2014 18:04:24,844 - INFO  - searcher identified --- respT: 28ms, 37 results, q=merlina, 

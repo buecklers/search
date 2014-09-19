@@ -1,0 +1,6 @@
+2014-04-28T14:05:40+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 62ms, 77862 results, q=, 
+2014-04-28T14:05:47+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 12ms, 67 results, q=piwik, 
+2014-04-28T14:05:50+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 12ms, 44 results, web:(PSIWeb), q=piwik, 
+2014-04-28T14:05:56+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 14ms, 43 results, type:topic, web:(PSIWeb), q=piwik, 
+2014-04-28T14:05:59+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 12ms, 29 results, type:topic, web:(PSIWeb), author:AndreLichtsteiner, q=piwik, 
+2014-04-28T14:06:09+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 15ms, 14 results, type:topic, web:(PSIWeb), date:[NOW-1YEAR TO NOW], author:AndreLichtsteiner, q=piwik, 

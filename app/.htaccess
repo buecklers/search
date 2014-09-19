@@ -1,0 +1,18 @@
+RewriteEngine On
+
+
+<Limit POST PUT DELETE CONNECT PROPFIND PROPPATCH>
+	Deny from all
+</Limit>
+
+RewriteEngine On
+RewriteBase /search/app
+RewriteOptions Inherit
+
+RewriteRule ^pub/(.*)$ http://intranet.psi.ch/pub/$1 [QSA,P]
+RewriteRule ^labels/(.*)$ http://intranet.psi.ch/labels/$1 [QSA,P]
+RewriteRule ^webbase/(.*)$ http://intranet.psi.ch/webbase/$1 [QSA,P]
+RewriteRule ^script/bootstrap/(.*)$ http://intranet.psi.ch/script/bootstrap/$1 [QSA,P]
+RewriteRule ^script/solrglossar/(.*)$ http://intranet.psi.ch/script/solrglossar/$1 [QSA,P]
+RewriteRule ^script/angularjs/(.*)$ http://intranet.psi.ch/script/angularjs/$1 [QSA,P]
+RewriteRule ^piwik/(.*)$ http://intranet.psi.ch/piwik/$1 [QSA,P]

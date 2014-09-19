@@ -1,0 +1,7 @@
+01.06.2014 06:15:01,853 - INFO  - mapping file sync started
+01.06.2014 06:15:01,928 - ERROR - can`t open source file
+01.06.2014 07:15:01,771 - INFO  - mapping file sync started
+01.06.2014 07:15:01,836 - ERROR - can`t open source file
+01.06.2014 19:45:16,101 - INFO  - searcher identified --- respT: 20ms, 5136 results, web:(PSIWeb), q=, 
+01.06.2014 19:45:24,676 - INFO  - searcher identified --- respT: 18ms, 246 results, web:(PSIWeb), author:DanielOderbolz, q=, 
+01.06.2014 19:45:50,248 - INFO  - searcher identified --- respT: 17ms, 183 results, type:topic, web:(PSIWeb), author:DanielOderbolz, q=, 

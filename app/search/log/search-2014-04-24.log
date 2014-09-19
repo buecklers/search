@@ -1,0 +1,18 @@
+2014-04-24T14:39:47+02:00 [SearchLogger] user list not found
+2014-04-24T14:39:47+02:00 [SearchLogger] unknown wikiuser
+2014-04-24T14:39:47+02:00 [SearchLogger] searcher anonymous --- respT: 26ms, 26878 results, q=, 
+2014-04-24T14:39:56+02:00 [SearchLogger] user list not found
+2014-04-24T14:39:56+02:00 [SearchLogger] unknown wikiuser
+2014-04-24T14:39:56+02:00 [SearchLogger] searcher anonymous --- respT: 28ms, 26878 results, q=, 
+2014-04-24T14:40:09+02:00 [SearchLogger] user list not found
+2014-04-24T14:40:09+02:00 [SearchLogger] unknown wikiuser
+2014-04-24T14:40:09+02:00 [SearchLogger] searcher anonymous --- respT: 27ms, 26878 results, q=, 
+2014-04-24T14:40:35+02:00 [SearchLogger] user list not found
+2014-04-24T14:40:35+02:00 [SearchLogger] unknown wikiuser
+2014-04-24T14:40:35+02:00 [SearchLogger] searcher anonymous --- respT: 41ms, 83 results, web:(AIT), q=, 
+2014-04-24T14:40:35+02:00 [SearchLogger] user list not found
+2014-04-24T14:40:35+02:00 [SearchLogger] unknown wikiuser
+2014-04-24T14:40:36+02:00 [SearchLogger] searcher anonymous --- respT: 20ms, 4663 results, web:(AIT Main), q=, 
+2014-04-24T14:40:36+02:00 [SearchLogger] user list not found
+2014-04-24T14:40:36+02:00 [SearchLogger] unknown wikiuser
+2014-04-24T14:40:36+02:00 [SearchLogger] searcher anonymous --- respT: 20ms, 4727 results, web:(AIT Main Main.Interflex), q=, 

@@ -1,0 +1,33 @@
+27.05.2014 08:11:22,609 - INFO  - searcher identified --- respT: 70ms, 38182 results, q=, 
+27.05.2014 08:11:25,690 - INFO  - searcher identified --- respT: 19ms, 27 results, q=WebGl, 
+27.05.2014 08:11:26,206 - INFO  - searcher identified --- respT: 19ms, 27 results, q=WebGl, 
+27.05.2014 08:25:31,029 - ERROR - unknown wikiuser
+27.05.2014 08:25:31,116 - INFO  - searcher anonymous --- respT: 39ms, 27855 results, q=, 
+27.05.2014 08:26:00,250 - ERROR - unknown wikiuser
+27.05.2014 08:26:00,294 - INFO  - searcher anonymous --- respT: 15ms, 1620 results, q=check, 
+27.05.2014 08:26:04,714 - ERROR - unknown wikiuser
+27.05.2014 08:26:04,759 - INFO  - searcher anonymous --- respT: 16ms, 1620 results, q=check, 
+27.05.2014 08:26:14,734 - ERROR - unknown wikiuser
+27.05.2014 08:26:14,816 - INFO  - searcher anonymous --- respT: 33ms, 27855 results, q=, 
+27.05.2014 09:04:28,031 - INFO  - mapping file sync started
+27.05.2014 09:04:28,872 - INFO  - file successfully updated
+27.05.2014 09:36:21,674 - INFO  - searcher identified --- respT: 20ms, 5118 results, web:(PSIWeb), q=, 
+27.05.2014 09:36:41,289 - INFO  - searcher identified --- respT: 20ms, 869 results, web:(PSIWeb), author:OliverSchaub, q=, 
+27.05.2014 10:22:37,577 - INFO  - searcher identified --- respT: 43ms, 78354 results, q=, 
+27.05.2014 10:22:47,040 - INFO  - searcher identified --- respT: 33ms, 158 results, q=cio, 
+27.05.2014 10:22:48,938 - INFO  - searcher identified --- respT: 33ms, 158 results, q=cio, 
+27.05.2014 10:22:58,841 - INFO  - searcher identified --- respT: 26ms, 2682 results, q=it board, 
+27.05.2014 10:33:26,452 - INFO  - searcher identified --- respT: 22ms, 5118 results, web:(PSIWeb), q=, 
+27.05.2014 11:40:01,180 - INFO  - mapping file sync started
+27.05.2014 11:40:05,295 - INFO  - file successfully updated
+27.05.2014 12:19:15,122 - INFO  - searcher identified --- respT: 48ms, 82653 results, q=, 
+27.05.2014 12:19:21,139 - INFO  - searcher identified --- respT: 13ms, 640 results, q=ilab, 
+27.05.2014 12:19:31,361 - INFO  - searcher identified --- respT: 24ms, 38 results, q=ilab.web.psi.ch, 
+27.05.2014 12:19:24,147 - INFO  - searcher identified --- respT: 26ms, 38 results, q=ilab.web.psi.ch, 
+27.05.2014 12:19:24,052 - INFO  - searcher identified --- respT: 24ms, 38 results, q=ilab.web.psi.ch, 
+27.05.2014 12:21:15,622 - INFO  - searcher identified --- respT: 63ms, 387 results, q=ilab-psi, 
+27.05.2014 12:21:16,777 - INFO  - searcher identified --- respT: 61ms, 387 results, q=ilab-psi., 
+27.05.2014 12:21:18,607 - INFO  - searcher identified --- respT: 25ms, 31 results, q=ilab-psi.ch, 
+27.05.2014 12:21:44,563 - INFO  - searcher identified --- respT: 22ms, 27 results, q=www.ilab, 
+27.05.2014 12:21:46,316 - INFO  - searcher identified --- respT: 47ms, 27 results, q=www.ilab-psi, 
+27.05.2014 12:21:47,325 - INFO  - searcher identified --- respT: 30ms, 24 results, q=www.ilab-psi.ch, 

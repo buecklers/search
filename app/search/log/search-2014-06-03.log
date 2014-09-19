@@ -1,0 +1,16 @@
+03.06.2014 06:15:01,469 - INFO  - mapping file sync started
+03.06.2014 06:15:02,286 - INFO  - file successfully updated
+03.06.2014 07:15:01,654 - INFO  - mapping file sync started
+03.06.2014 07:15:02,120 - INFO  - file successfully updated
+03.06.2014 09:17:06,863 - INFO  - searcher identified --- respT: 62ms, 82858 results, q=, 
+03.06.2014 09:17:12,686 - INFO  - searcher identified --- respT: 17ms, 1866 results, q=print, 
+03.06.2014 09:17:14,863 - INFO  - searcher identified --- respT: 24ms, 379 results, q=print linu, 
+03.06.2014 09:17:16,263 - INFO  - searcher identified --- respT: 27ms, 378 results, q=print linux, 
+03.06.2014 15:18:36,783 - INFO  - searcher identified --- respT: 50ms, 71284 results, q=, 
+03.06.2014 15:18:39,196 - INFO  - searcher identified --- respT: 18ms, 172 results, q=gac, 
+03.06.2014 15:18:42,345 - INFO  - searcher identified --- respT: 49ms, 10 results, q=gac-outlook, 
+03.06.2014 15:18:44,517 - INFO  - searcher identified --- respT: 22ms, no results, q=gac-outlook2, 
+03.06.2014 15:18:46,804 - INFO  - searcher identified --- respT: 53ms, 10 results, q=gac-outlook, 
+03.06.2014 15:18:57,357 - INFO  - searcher identified --- respT: 16ms, 659 results, q=outlook, 
+03.06.2014 15:18:58,775 - INFO  - searcher identified --- respT: 21ms, no results, q=outlook2, 
+03.06.2014 15:19:00,350 - INFO  - searcher identified --- respT: 16ms, 1 results, q=outlook2csv, 

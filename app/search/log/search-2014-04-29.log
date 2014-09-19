@@ -1,0 +1,11 @@
+2014-04-29T12:18:35+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 49ms, 77918 results, q=, 
+2014-04-29T12:18:51+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 21ms, 5027 results, web:(PSIWeb), q=, 
+2014-04-29T12:19:00+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 14ms, 19 results, web:(PSIWeb), q=hackday, 
+2014-04-29T12:19:10+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 16ms, 15 results, web:(PSIWeb), date:[* TO NOW/YEAR], q=hackday, 
+2014-04-29T12:19:15+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 20ms, 249 results, web:(PSIWeb), date:[* TO NOW/YEAR], q=pdf, 
+2014-04-29T12:19:23+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 29ms, 2 results, web:(PSIWeb), date:[* TO NOW/YEAR], q=pdf hack, 
+2014-04-29T12:19:37+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 27ms, 2 results, web:(PSIWeb), date:[* TO NOW/YEAR], q=pdf hackday, 
+2014-04-29T12:19:37+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 16ms, 15 results, web:(PSIWeb), date:[* TO NOW/YEAR], q=hackday, 
+2014-04-29T12:20:21+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 14ms, 30 results, q=hackday, 
+2014-04-29T12:20:25+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 15ms, 19 results, web:(PSIWeb), q=hackday, 
+2014-04-29T12:20:39+02:00 [SearchLogger] searcher identified as AndreLichtsteiner --- respT: 26ms, 19 results, web:(PSIWeb), q=hackday, page turned

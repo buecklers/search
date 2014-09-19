@@ -1,0 +1,4 @@
+20.05.2014 07:38:09,159 - INFO  - searcher identified --- respT: 6ms, 847 results, type:topic, web:(PSIWeb), q=*:*, 
+20.05.2014 10:32:19,865 - INFO  - searcher identified --- respT: 28ms, 5088 results, web:(PSIWeb), q=, 
+20.05.2014 10:34:27,949 - INFO  - searcher identified --- respT: 64ms, 11275 results, web:(AIT PSIWeb), q=, 
+20.05.2014 10:36:04,087 - INFO  - searcher identified --- respT: 22ms, 82356 results, q=, 

@@ -1,0 +1,4 @@
+21.05.2014 07:40:01,582 - ERROR - unknown wikiuser
+21.05.2014 07:40:01,711 - INFO  - searcher anonymous --- respT: 5ms, 390 results, type:topic, web:(PSIWeb), q=*:*, 
+21.05.2014 08:27:08,635 - INFO  - searcher identified --- respT: 7ms, 850 results, type:topic, web:(PSIWeb), q=*:*, 
+21.05.2014 08:27:14,726 - INFO  - searcher identified --- respT: 6ms, 850 results, type:topic, web:(PSIWeb), q=*:*, 

@@ -1,0 +1,420 @@
+09.05.2014 07:54:24,940 - INFO  - searcher identified --- respT: 70ms, 35816 results, q=, 
+09.05.2014 07:54:31,292 - INFO  - searcher identified --- respT: 37ms, 213 results, q=biblio, 
+09.05.2014 07:54:32,063 - INFO  - searcher identified --- respT: 30ms, 164 results, q=bibliot, 
+09.05.2014 07:54:32,445 - INFO  - searcher identified --- respT: 16ms, 162 results, q=bibliothe, 
+09.05.2014 07:54:32,868 - INFO  - searcher identified --- respT: 17ms, 165 results, q=bibliothek, 
+09.05.2014 08:03:35,269 - INFO  - searcher identified --- respT: 65ms, 35816 results, q=, 
+09.05.2014 08:03:39,455 - INFO  - searcher identified --- respT: 17ms, 295 results, q=java, 
+09.05.2014 08:03:42,045 - INFO  - searcher identified --- respT: 28ms, 142 results, q=java script the, 
+09.05.2014 08:03:42,046 - INFO  - searcher identified --- respT: 27ms, 142 results, q=java script, 
+09.05.2014 08:03:43,539 - INFO  - searcher identified --- respT: 15ms, no results, q=java script the gooc, 
+09.05.2014 08:03:44,604 - INFO  - searcher identified --- respT: 63ms, 25 results, q=java script the good, 
+09.05.2014 08:03:47,733 - INFO  - searcher identified --- respT: 114ms, 15 results, q=java script the good parts, 
+09.05.2014 08:03:59,229 - INFO  - searcher identified --- respT: 104ms, 15 results, q=java script the good parts, page turned
+09.05.2014 08:56:42,309 - INFO  - searcher identified --- respT: 14ms, 22 results, q=buecklers, 
+09.05.2014 08:57:05,567 - INFO  - searcher identified --- respT: 15ms, 10 results, author:AndreLichtsteiner, q=buecklers, 
+09.05.2014 08:59:52,530 - INFO  - searcher identified --- respT: 64ms, 35818 results, q=, 
+09.05.2014 09:03:24,011 - INFO  - searcher identified --- respT: 21ms, 73 results, q=suche test, 
+09.05.2014 09:03:26,190 - INFO  - searcher identified --- respT: 49ms, 19 results, q=suche test task, 
+09.05.2014 09:03:30,697 - INFO  - searcher identified --- respT: 71ms, 14 results, q=suche test task b, 
+09.05.2014 09:03:32,012 - INFO  - searcher identified --- respT: 14ms, no results, q=suche test task buecklers, 
+09.05.2014 09:03:34,235 - INFO  - searcher identified --- respT: 44ms, no results, q=suche test task bueckler, 
+09.05.2014 09:03:35,318 - INFO  - searcher identified --- respT: 83ms, 35818 results, q=, 
+09.05.2014 09:03:36,855 - INFO  - searcher identified --- respT: 13ms, 177 results, q=bue, 
+09.05.2014 09:03:37,985 - INFO  - searcher identified --- respT: 11ms, 22 results, q=buecklers, 
+09.05.2014 09:03:38,954 - INFO  - searcher identified --- respT: 15ms, 12 results, q=buecklers tas, 
+09.05.2014 09:03:39,434 - INFO  - searcher identified --- respT: 17ms, 12 results, q=buecklers task, 
+09.05.2014 09:19:50,114 - INFO  - searcher identified --- respT: 75ms, 69667 results, q=, 
+09.05.2014 09:20:17,732 - ERROR - unknown wikiuser
+09.05.2014 09:20:17,796 - INFO  - searcher anonymous --- respT: 22ms, 27028 results, q=, 
+09.05.2014 09:20:18,270 - INFO  - searcher identified --- respT: 71ms, 63823 results, q=, 
+09.05.2014 09:20:24,047 - INFO  - searcher identified --- respT: 18ms, 364 results, q=piket, 
+09.05.2014 09:20:32,836 - ERROR - unknown wikiuser
+09.05.2014 09:20:32,903 - INFO  - searcher anonymous --- respT: 20ms, no results, q=miocr, 
+09.05.2014 09:20:34,436 - ERROR - unknown wikiuser
+09.05.2014 09:20:34,549 - INFO  - searcher anonymous --- respT: 34ms, 6683 results, q=mi, 
+09.05.2014 09:20:35,420 - ERROR - unknown wikiuser
+09.05.2014 09:20:35,499 - INFO  - searcher anonymous --- respT: 35ms, 27028 results, q=, 
+09.05.2014 09:20:38,429 - ERROR - unknown wikiuser
+09.05.2014 09:20:38,532 - INFO  - searcher anonymous --- respT: 30ms, 143 results, q=microso, 
+09.05.2014 09:20:40,806 - ERROR - unknown wikiuser
+09.05.2014 09:20:40,858 - INFO  - searcher anonymous --- respT: 17ms, 140 results, q=microsoft, 
+09.05.2014 09:20:42,993 - ERROR - unknown wikiuser
+09.05.2014 09:20:43,069 - INFO  - searcher anonymous --- respT: 30ms, 39 results, q=microsoft project, 
+09.05.2014 09:20:46,450 - ERROR - unknown wikiuser
+09.05.2014 09:20:46,495 - INFO  - searcher anonymous --- respT: 17ms, no results, q=microsoft project2012, 
+09.05.2014 09:20:46,899 - ERROR - unknown wikiuser
+09.05.2014 09:20:46,949 - INFO  - searcher anonymous --- respT: 20ms, no results, q=microsoft project20120, 
+09.05.2014 09:20:48,420 - ERROR - unknown wikiuser
+09.05.2014 09:20:48,521 - INFO  - searcher anonymous --- respT: 53ms, 39 results, q=microsoft project, 
+09.05.2014 09:20:49,693 - ERROR - unknown wikiuser
+09.05.2014 09:20:49,957 - INFO  - searcher anonymous --- respT: 92ms, 13 results, q=microsoft project 2010, 
+09.05.2014 09:21:10,940 - ERROR - unknown wikiuser
+09.05.2014 09:21:11,008 - INFO  - searcher anonymous --- respT: 26ms, 27028 results, q=, 
+09.05.2014 09:21:16,555 - ERROR - unknown wikiuser
+09.05.2014 09:21:16,666 - INFO  - searcher anonymous --- respT: 41ms, 2 results, author:AlainStuder, q=microsoft project 2010, 
+09.05.2014 09:21:18,778 - ERROR - unknown wikiuser
+09.05.2014 09:21:18,830 - INFO  - searcher anonymous --- respT: 18ms, 760 results, q=hardware, 
+09.05.2014 09:21:56,928 - INFO  - searcher identified --- respT: 14ms, 329 results, author:AndreLichtsteiner, q=web, 
+09.05.2014 09:21:58,518 - INFO  - searcher identified --- respT: 17ms, 10 results, author:AndreLichtsteiner, q=webGl, 
+09.05.2014 09:22:02,768 - INFO  - searcher identified --- respT: 16ms, no results, author:AndreLichtsteiner, q=webGltest, 
+09.05.2014 09:22:04,499 - INFO  - searcher identified --- respT: 20ms, no results, q=webGlt, 
+09.05.2014 09:22:05,422 - INFO  - searcher identified --- respT: 18ms, 26 results, q=webGl, 
+09.05.2014 09:22:06,990 - ERROR - unknown wikiuser
+09.05.2014 09:22:07,074 - INFO  - searcher anonymous --- respT: 27ms, 27028 results, q=, 
+09.05.2014 09:22:07,207 - INFO  - searcher identified --- respT: 28ms, 12 results, q=webGl test, 
+09.05.2014 09:22:09,379 - INFO  - searcher identified --- respT: 69ms, 62235 results, q=, 
+09.05.2014 09:22:15,339 - INFO  - searcher identified --- respT: 75ms, 62235 results, q=, 
+09.05.2014 09:22:16,026 - ERROR - unknown wikiuser
+09.05.2014 09:22:16,086 - INFO  - searcher anonymous --- respT: 25ms, 14422 results, type:topic, q=, 
+09.05.2014 09:22:28,784 - ERROR - unknown wikiuser
+09.05.2014 09:22:28,823 - INFO  - searcher anonymous --- respT: 15ms, 4 results, type:topic, q=icinga, 
+09.05.2014 09:22:36,403 - INFO  - searcher identified --- respT: 78ms, 62235 results, q=, 
+09.05.2014 09:22:37,898 - ERROR - unknown wikiuser
+09.05.2014 09:22:37,936 - INFO  - searcher anonymous --- respT: 15ms, 4 results, q=icinga, 
+09.05.2014 09:22:44,952 - ERROR - unknown wikiuser
+09.05.2014 09:22:45,021 - INFO  - searcher anonymous --- respT: 27ms, 27028 results, q=, 
+09.05.2014 09:22:46,023 - ERROR - unknown wikiuser
+09.05.2014 09:22:46,060 - INFO  - searcher anonymous --- respT: 12ms, 77 results, q=isenegger, 
+09.05.2014 09:22:52,198 - INFO  - searcher identified --- respT: 15ms, 2984 results, q=hard, 
+09.05.2014 09:22:53,461 - ERROR - unknown wikiuser
+09.05.2014 09:22:53,512 - INFO  - searcher anonymous --- respT: 16ms, 814 results, q=alfresco, 
+09.05.2014 09:22:53,650 - INFO  - searcher identified --- respT: 19ms, 1805 results, q=hardw, 
+09.05.2014 09:22:55,270 - INFO  - searcher identified --- respT: 21ms, 1785 results, q=hardware, 
+09.05.2014 09:22:56,638 - INFO  - searcher identified --- respT: 38ms, 62 results, q=hardware modelle, 
+09.05.2014 09:23:11,534 - INFO  - searcher identified --- respT: 14ms, 154 results, q=psp, 
+09.05.2014 09:23:35,756 - INFO  - searcher identified --- respT: 73ms, 76535 results, q=, 
+09.05.2014 09:23:39,178 - ERROR - unknown wikiuser
+09.05.2014 09:23:39,244 - INFO  - searcher anonymous --- respT: 24ms, 814 results, q=alfresco, 
+09.05.2014 09:23:47,999 - INFO  - searcher identified --- respT: 19ms, 38 results, web:(Broadcast), q=, 
+09.05.2014 09:23:58,900 - INFO  - searcher identified --- respT: 11ms, 5 results, type:image, web:(Broadcast), q=, 
+09.05.2014 09:24:02,442 - ERROR - unknown wikiuser
+09.05.2014 09:24:02,497 - INFO  - searcher anonymous --- respT: 14ms, 19 results, web:(PSIWeb), q=alfresco, 
+09.05.2014 09:24:38,180 - INFO  - searcher identified --- respT: 17ms, 23976 results, type:image, q=, 
+09.05.2014 09:24:40,874 - INFO  - searcher identified --- respT: 84ms, 76535 results, q=, 
+09.05.2014 09:24:46,431 - ERROR - unknown wikiuser
+09.05.2014 09:24:46,510 - INFO  - searcher anonymous --- respT: 30ms, 150 results, web:(Computing PSIWeb), q=alfresco, 
+09.05.2014 09:24:49,345 - INFO  - searcher identified --- respT: 15ms, 7 results, date:[NOW/DAY TO NOW], q=, 
+09.05.2014 09:24:55,870 - INFO  - searcher identified --- respT: 13ms, 2 results, date:[NOW/DAY TO NOW], author:MiroVogt, q=, 
+09.05.2014 09:25:01,185 - INFO  - searcher identified --- respT: 19ms, 141 results, author:MiroVogt, q=, 
+09.05.2014 09:25:05,799 - INFO  - searcher identified --- respT: 12ms, 2 results, date:[NOW/DAY TO NOW], author:MiroVogt, q=, 
+09.05.2014 09:25:06,126 - ERROR - unknown wikiuser
+09.05.2014 09:25:06,184 - INFO  - searcher anonymous --- respT: 22ms, 303 results, web:(Computing PSIWeb), q=web, 
+09.05.2014 09:25:07,375 - ERROR - unknown wikiuser
+09.05.2014 09:25:07,457 - INFO  - searcher anonymous --- respT: 34ms, 30 results, web:(Computing PSIWeb), q=web gl, 
+09.05.2014 09:25:12,968 - ERROR - unknown wikiuser
+09.05.2014 09:25:13,057 - INFO  - searcher anonymous --- respT: 45ms, 30 results, web:(Computing PSIWeb), q=web gl, 
+09.05.2014 09:25:24,290 - INFO  - searcher identified --- respT: 15ms, 7 results, date:[NOW/DAY-1DAY TO NOW], author:MiroVogt, q=, 
+09.05.2014 09:25:26,971 - INFO  - searcher identified --- respT: 12ms, 2 results, date:[NOW/DAY TO NOW], author:MiroVogt, q=, 
+09.05.2014 09:25:26,991 - ERROR - unknown wikiuser
+09.05.2014 09:25:27,041 - INFO  - searcher anonymous --- respT: 18ms, 1 results, web:(Computing PSIWeb), author:TimothyIsenegger, q=web gl, 
+09.05.2014 09:25:57,881 - ERROR - unknown wikiuser
+09.05.2014 09:25:57,917 - INFO  - searcher anonymous --- respT: 12ms, 1 results, web:(Computing PSIWeb), author:TimothyIsenegger, q=, 
+09.05.2014 09:25:59,285 - ERROR - unknown wikiuser
+09.05.2014 09:25:59,348 - INFO  - searcher anonymous --- respT: 24ms, 1406 results, web:(Computing PSIWeb), q=, 
+09.05.2014 09:26:01,106 - ERROR - unknown wikiuser
+09.05.2014 09:26:01,174 - INFO  - searcher anonymous --- respT: 26ms, 27028 results, q=, 
+09.05.2014 09:26:14,889 - ERROR - unknown wikiuser
+09.05.2014 09:26:14,922 - INFO  - searcher anonymous --- respT: 11ms, 1 results, date:[NOW-4HOUR TO NOW], q=, 
+09.05.2014 09:26:21,299 - INFO  - searcher identified --- respT: 20ms, 141 results, author:MiroVogt, q=, 
+09.05.2014 09:26:24,113 - ERROR - unknown wikiuser
+09.05.2014 09:26:24,179 - INFO  - searcher anonymous --- respT: 26ms, 27028 results, q=, 
+09.05.2014 09:26:25,949 - INFO  - searcher identified --- respT: 29ms, 25 results, web:(AIT), author:MiroVogt, q=, 
+09.05.2014 09:26:27,797 - INFO  - searcher identified --- respT: 29ms, 26 results, web:(AIT Main.Interflex), author:MiroVogt, q=, 
+09.05.2014 09:26:29,698 - INFO  - searcher identified --- respT: 21ms, 38 results, web:(AIT Main.Interflex PSIWeb), author:MiroVogt, q=, 
+09.05.2014 09:26:32,024 - INFO  - searcher identified --- respT: 12ms, 2 results, web:(AIT Main.Interflex PSIWeb), date:[NOW/DAY TO NOW], author:MiroVogt, q=, 
+09.05.2014 09:26:33,084 - INFO  - searcher identified --- respT: 28ms, 20 results, web:(AIT), date:[NOW-1YEAR TO NOW], author:MiroVogt, q=, 
+09.05.2014 09:26:33,401 - ERROR - unknown wikiuser
+09.05.2014 09:26:33,439 - INFO  - searcher anonymous --- respT: 11ms, 1 results, date:[NOW/DAY TO NOW], q=, 
+09.05.2014 09:26:34,217 - INFO  - searcher identified --- respT: 13ms, 2 results, web:(AIT), date:[NOW/DAY TO NOW], author:MiroVogt, q=, 
+09.05.2014 09:26:35,416 - INFO  - searcher identified --- respT: 28ms, 25 results, web:(AIT), author:MiroVogt, q=, 
+09.05.2014 09:26:43,077 - ERROR - unknown wikiuser
+09.05.2014 09:26:43,144 - INFO  - searcher anonymous --- respT: 26ms, 27028 results, q=, 
+09.05.2014 09:26:43,284 - INFO  - searcher identified --- respT: 26ms, 141 results, author:MiroVogt, q=, 
+09.05.2014 09:26:44,375 - INFO  - searcher identified --- respT: 75ms, 76535 results, q=, 
+09.05.2014 09:26:48,927 - ERROR - unknown wikiuser
+09.05.2014 09:26:48,976 - INFO  - searcher anonymous --- respT: 13ms, 7620 results, type:image, q=, 
+09.05.2014 09:27:01,352 - ERROR - unknown wikiuser
+09.05.2014 09:27:01,391 - INFO  - searcher anonymous --- respT: 13ms, 7620 results, type:image, q=, page turned
+09.05.2014 09:27:13,188 - ERROR - unknown wikiuser
+09.05.2014 09:27:13,249 - INFO  - searcher anonymous --- respT: 24ms, 27028 results, q=, page turned
+09.05.2014 09:27:19,590 - ERROR - unknown wikiuser
+09.05.2014 09:27:19,631 - INFO  - searcher anonymous --- respT: 15ms, 83 results, web:(AIT), q=, page turned
+09.05.2014 09:27:35,507 - ERROR - unknown wikiuser
+09.05.2014 09:27:35,582 - INFO  - searcher anonymous --- respT: 31ms, 27028 results, q=, 
+09.05.2014 09:27:42,558 - INFO  - searcher identified --- respT: 23ms, 3078 results, author:OliverSchaub, q=, 
+09.05.2014 09:28:08,326 - INFO  - searcher identified --- respT: 18ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:09,258 - INFO  - searcher identified --- respT: 22ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:09,910 - INFO  - searcher identified --- respT: 21ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:10,961 - INFO  - searcher identified --- respT: 18ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:11,649 - INFO  - searcher identified --- respT: 19ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:12,087 - INFO  - searcher identified --- respT: 21ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:12,810 - INFO  - searcher identified --- respT: 18ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:13,457 - INFO  - searcher identified --- respT: 39ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:13,988 - INFO  - searcher identified --- respT: 17ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:14,547 - INFO  - searcher identified --- respT: 17ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:15,426 - INFO  - searcher identified --- respT: 17ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:16,648 - INFO  - searcher identified --- respT: 20ms, 3078 results, author:OliverSchaub, q=, 
+09.05.2014 09:28:20,050 - ERROR - unknown wikiuser
+09.05.2014 09:28:20,097 - INFO  - searcher anonymous --- respT: 18ms, 409 results, q=oliver, 
+09.05.2014 09:28:20,183 - INFO  - searcher identified --- respT: 18ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:20,761 - INFO  - searcher identified --- respT: 17ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:21,035 - INFO  - searcher identified --- respT: 25ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:21,249 - INFO  - searcher identified --- respT: 19ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:21,818 - INFO  - searcher identified --- respT: 19ms, 3078 results, author:OliverSchaub, q=, page turned
+09.05.2014 09:28:22,819 - ERROR - unknown wikiuser
+09.05.2014 09:28:22,879 - INFO  - searcher anonymous --- respT: 16ms, 108 results, q=oliver schaub, 
+09.05.2014 09:28:48,295 - ERROR - unknown wikiuser
+09.05.2014 09:28:48,339 - INFO  - searcher anonymous --- respT: 16ms, 108 results, q=oliver schaub, page turned
+09.05.2014 09:29:23,245 - INFO  - searcher identified --- respT: 24ms, 1616 results, q=oliver schaub, page turned
+09.05.2014 09:30:11,766 - INFO  - searcher identified --- respT: 87ms, 81731 results, q=, 
+09.05.2014 09:30:27,935 - INFO  - searcher identified --- respT: 36ms, 8705 results, q=test, 
+09.05.2014 09:30:30,579 - INFO  - searcher identified --- respT: 25ms, 4 results, q=testsuch, 
+09.05.2014 09:30:31,780 - INFO  - searcher identified --- respT: 29ms, 2 results, q=testsuche, 
+09.05.2014 09:30:36,414 - INFO  - searcher identified --- respT: 66ms, 81731 results, q=, 
+09.05.2014 09:30:43,798 - INFO  - searcher identified --- respT: 125ms, 44229 results, type:topic, q=, 
+09.05.2014 09:30:57,803 - INFO  - searcher identified --- respT: 68ms, 81731 results, q=, 
+09.05.2014 09:31:12,222 - INFO  - searcher identified --- respT: 17ms, 7 results, date:[NOW-4HOUR TO NOW], q=, 
+09.05.2014 09:31:24,558 - INFO  - searcher identified --- respT: 88ms, 81731 results, q=, 
+09.05.2014 09:31:59,224 - ERROR - unknown wikiuser
+09.05.2014 09:31:59,306 - INFO  - searcher anonymous --- respT: 31ms, 27028 results, q=, 
+09.05.2014 09:32:07,532 - ERROR - unknown wikiuser
+09.05.2014 09:32:07,594 - INFO  - searcher anonymous --- respT: 25ms, 7003 results, q=psi, 
+09.05.2014 09:32:11,935 - ERROR - unknown wikiuser
+09.05.2014 09:32:12,134 - INFO  - searcher anonymous --- respT: 45ms, 2738 results, q=psi d, 
+09.05.2014 09:32:14,637 - ERROR - unknown wikiuser
+09.05.2014 09:32:14,741 - INFO  - searcher anonymous --- respT: 28ms, 7003 results, q=psi, 
+09.05.2014 09:34:10,450 - INFO  - searcher identified --- respT: 49ms, 35818 results, q=, 
+09.05.2014 09:34:14,549 - INFO  - searcher identified --- respT: 19ms, no results, q=bueckelrs, 
+09.05.2014 09:34:17,008 - INFO  - searcher identified --- respT: 15ms, no results, q=bueckelrskjli, 
+09.05.2014 09:34:19,126 - INFO  - searcher identified --- respT: 24ms, 5464 results, q=bu, 
+09.05.2014 09:34:20,909 - INFO  - searcher identified --- respT: 21ms, 22 results, q=bueck, 
+09.05.2014 09:34:23,414 - INFO  - searcher identified --- respT: 18ms, no results, q=bueckli, 
+09.05.2014 09:34:24,286 - INFO  - searcher identified --- respT: 22ms, 58 results, q=buec, 
+09.05.2014 09:34:24,968 - INFO  - searcher identified --- respT: 14ms, 177 results, q=bue, 
+09.05.2014 09:34:26,273 - INFO  - searcher identified --- respT: 43ms, 3 results, q=buek, 
+09.05.2014 09:34:26,970 - INFO  - searcher identified --- respT: 18ms, no results, q=buekler, 
+09.05.2014 09:34:27,684 - INFO  - searcher identified --- respT: 16ms, no results, q=bueklers, 
+09.05.2014 09:34:30,953 - INFO  - searcher identified --- respT: 14ms, 177 results, q=bue, 
+09.05.2014 09:34:33,186 - INFO  - searcher identified --- respT: 12ms, 22 results, q=buecklers, 
+09.05.2014 09:34:36,035 - INFO  - searcher identified --- respT: 17ms, 4439 results, q=b, 
+09.05.2014 09:34:39,896 - INFO  - searcher identified --- respT: 54ms, 64631 results, q=, 
+09.05.2014 09:34:41,339 - INFO  - searcher identified --- respT: 21ms, 58 results, q=buec, 
+09.05.2014 09:34:43,222 - INFO  - searcher identified --- respT: 21ms, 22 results, q=bueckler, 
+09.05.2014 09:34:43,433 - INFO  - searcher identified --- respT: 14ms, 230 results, q=Miro, 
+09.05.2014 09:34:43,641 - INFO  - searcher identified --- respT: 12ms, 22 results, q=buecklers, 
+09.05.2014 09:34:45,723 - INFO  - searcher identified --- respT: 23ms, 5464 results, q=bu, 
+09.05.2014 09:34:48,039 - INFO  - searcher identified --- respT: 21ms, 22 results, q=bueckl, 
+09.05.2014 09:34:48,972 - INFO  - searcher identified --- respT: 16ms, 4439 results, q=b, 
+09.05.2014 09:34:49,298 - INFO  - searcher identified --- respT: 14ms, 230 results, q=Miro  , 
+09.05.2014 09:34:51,122 - INFO  - searcher identified --- respT: 23ms, 81 results, q=Miro   Test, 
+09.05.2014 09:34:52,696 - INFO  - searcher identified --- respT: 12ms, 22 results, q=buecklers, 
+09.05.2014 09:34:54,681 - INFO  - searcher identified --- respT: 24ms, 81 results, q=Miro   Test  , 
+09.05.2014 09:34:55,230 - INFO  - searcher identified --- respT: 13ms, 177 results, q=bue, 
+09.05.2014 09:34:57,148 - INFO  - searcher identified --- respT: 39ms, 81 results, q=Miro   Test   a, 
+09.05.2014 09:34:58,332 - INFO  - searcher identified --- respT: 23ms, 81 results, q=Miro   Test   as, 
+09.05.2014 09:34:59,457 - INFO  - searcher identified --- respT: 33ms, 2 results, q=Miro   Test   asd, 
+09.05.2014 09:35:00,115 - INFO  - searcher identified --- respT: 13ms, 22 results, q=buecklers, 
+09.05.2014 09:35:02,460 - INFO  - searcher identified --- respT: 22ms, 81 results, q=Miro   Test   as, 
+09.05.2014 09:35:02,462 - INFO  - searcher identified --- respT: 22ms, 5464 results, q=bu, 
+09.05.2014 09:35:06,783 - INFO  - searcher identified --- respT: 28ms, 161 results, q=Miro   Te, 
+09.05.2014 09:35:07,814 - INFO  - searcher identified --- respT: 56ms, 64631 results, q=, 
+09.05.2014 09:35:08,778 - INFO  - searcher identified --- respT: 21ms, 1849 results, q=alfresco, 
+09.05.2014 09:35:10,382 - INFO  - searcher identified --- respT: 14ms, 812 results, q=Stellen, 
+09.05.2014 09:35:10,992 - INFO  - searcher identified --- respT: 12ms, no results, q=alfresco innn, 
+09.05.2014 09:35:11,993 - INFO  - searcher identified --- respT: 17ms, 1849 results, q=alfresco in, 
+09.05.2014 09:35:13,018 - INFO  - searcher identified --- respT: 29ms, 41 results, q=Stellenb, 
+09.05.2014 09:35:13,892 - INFO  - searcher identified --- respT: 27ms, 33 results, q=Stellenbe, 
+09.05.2014 09:35:15,414 - INFO  - searcher identified --- respT: 329ms, 19435 results, q=al, 
+09.05.2014 09:35:15,431 - INFO  - searcher identified --- respT: 12ms, 3 results, q=Stellenbewerbung, 
+09.05.2014 09:35:18,807 - INFO  - searcher identified --- respT: 15ms, 1849 results, q=alfresc, 
+09.05.2014 09:35:20,221 - INFO  - searcher identified --- respT: 10ms, no results, q=a, 
+09.05.2014 09:35:22,730 - INFO  - searcher identified --- respT: 17ms, 1849 results, q=alfresco, 
+09.05.2014 09:35:24,403 - INFO  - searcher identified --- respT: 32ms, no results, q=alfresco inteee, 
+09.05.2014 09:35:25,128 - INFO  - searcher identified --- respT: 34ms, no results, q=alfresco intee, 
+09.05.2014 09:35:25,901 - INFO  - searcher identified --- respT: 60ms, 81731 results, q=, 
+09.05.2014 09:35:28,152 - ERROR - unknown wikiuser
+09.05.2014 09:35:28,209 - INFO  - searcher anonymous --- respT: 19ms, 108 results, q=psi areal, 
+09.05.2014 09:35:31,237 - ERROR - unknown wikiuser
+09.05.2014 09:35:31,302 - INFO  - searcher anonymous --- respT: 25ms, 684 results, q=psi area, 
+09.05.2014 09:35:32,168 - INFO  - searcher identified --- respT: 35ms, no results, q=alfresco inteef, 
+09.05.2014 09:35:33,019 - ERROR - unknown wikiuser
+09.05.2014 09:35:33,108 - INFO  - searcher anonymous --- respT: 28ms, 7003 results, q=psi are, 
+09.05.2014 09:35:33,166 - INFO  - searcher identified --- respT: 45ms, 921 results, q=alfresco int, 
+09.05.2014 09:35:34,650 - INFO  - searcher identified --- respT: 29ms, 1960 results, q=alfre, 
+09.05.2014 09:35:35,431 - ERROR - unknown wikiuser
+09.05.2014 09:35:35,574 - INFO  - searcher anonymous --- respT: 36ms, 2828 results, q=psi ar, 
+09.05.2014 09:35:36,270 - INFO  - searcher identified --- respT: 62ms, 81731 results, q=, 
+09.05.2014 09:35:36,755 - ERROR - unknown wikiuser
+09.05.2014 09:35:36,825 - INFO  - searcher anonymous --- respT: 26ms, 27028 results, q=, 
+09.05.2014 09:35:38,986 - INFO  - searcher identified --- respT: 18ms, 2205 results, q=alf, 
+09.05.2014 09:35:42,424 - INFO  - searcher identified --- respT: 51ms, 7 results, q=alff, 
+09.05.2014 09:35:42,824 - INFO  - searcher identified --- respT: 16ms, 2205 results, q=alf, 
+09.05.2014 09:35:44,540 - INFO  - searcher identified --- respT: 16ms, 1849 results, q=alfresco, 
+09.05.2014 09:35:46,255 - INFO  - searcher identified --- respT: 28ms, no results, q=alfresco integar, 
+09.05.2014 09:35:52,410 - INFO  - searcher identified --- respT: 8ms, no results, q=a, 
+09.05.2014 09:36:04,030 - INFO  - searcher identified --- respT: 12ms, 4 results, q=alfersco, 
+09.05.2014 09:36:05,185 - INFO  - searcher identified --- respT: 14ms, 2205 results, q=alf, 
+09.05.2014 09:36:06,806 - INFO  - searcher identified --- respT: 17ms, 1849 results, q=alfresco, 
+09.05.2014 09:36:08,937 - INFO  - searcher identified --- respT: 15ms, 2205 results, q=alf, 
+09.05.2014 09:36:13,439 - INFO  - searcher identified --- respT: 64ms, 20 results, q=alfresco ine, 
+09.05.2014 09:36:16,645 - INFO  - searcher identified --- respT: 9ms, no results, q=a, 
+09.05.2014 09:36:21,650 - INFO  - searcher identified --- respT: 39ms, 153 results, q=alfresco integra, 
+09.05.2014 09:36:22,725 - INFO  - searcher identified --- respT: 23ms, 104 results, q=alfresco integration, 
+09.05.2014 10:03:05,889 - INFO  - searcher identified --- respT: 58ms, 62425 results, q=, 
+09.05.2014 10:03:12,040 - INFO  - searcher identified --- respT: 242ms, 132 results, q=vlan, 
+09.05.2014 10:03:12,398 - INFO  - searcher identified --- respT: 41ms, 121 results, q=vlan 4, 
+09.05.2014 10:03:13,123 - INFO  - searcher identified --- respT: 58ms, 9 results, q=vlan 470, 
+09.05.2014 10:03:34,620 - INFO  - searcher identified --- respT: 27ms, 49 results, q=lf95, 
+09.05.2014 10:07:46,077 - INFO  - searcher identified --- respT: 27ms, 760 results, q=Radius, 
+09.05.2014 10:08:08,839 - INFO  - searcher identified --- respT: 376ms, 4 results, q=LF9, 
+09.05.2014 10:08:11,242 - INFO  - searcher identified --- respT: 31ms, 49 results, q=lf95, 
+09.05.2014 10:08:43,742 - INFO  - searcher identified --- respT: 24ms, 760 results, q=radius, 
+09.05.2014 10:12:05,829 - INFO  - searcher identified --- respT: 61ms, 62307 results, q=, 
+09.05.2014 10:18:44,953 - INFO  - searcher identified --- respT: 55ms, 22 results, q=bueckler, 
+09.05.2014 10:18:45,861 - INFO  - searcher identified --- respT: 13ms, 22 results, q=buecklers, 
+09.05.2014 10:18:47,249 - INFO  - searcher identified --- respT: 16ms, 12 results, q=buecklers task, 
+09.05.2014 10:29:04,637 - INFO  - searcher identified --- respT: 48ms, 35843 results, q=, 
+09.05.2014 10:31:33,908 - INFO  - searcher identified --- respT: 48ms, 35843 results, q=, 
+09.05.2014 10:31:43,785 - INFO  - searcher identified --- respT: 40ms, 550 results, date:[NOW/DAY-7DAY TO NOW], q=, 
+09.05.2014 10:31:49,268 - INFO  - searcher identified --- respT: 20ms, 95 results, date:[NOW/DAY-7DAY TO NOW], q=task, 
+09.05.2014 10:31:55,605 - INFO  - searcher identified --- respT: 53ms, 95 results, date:[NOW/DAY-7DAY TO NOW], q=task, 
+09.05.2014 10:32:55,121 - INFO  - searcher identified --- respT: 60ms, 104 results, date:[NOW/DAY-7DAY TO NOW], field_TopicType_lst:ClassifiedTopic, q=, 
+09.05.2014 10:33:11,561 - INFO  - searcher identified --- respT: 22ms, 550 results, date:[NOW/DAY-7DAY TO NOW], q=, 
+09.05.2014 10:34:01,350 - INFO  - searcher identified --- respT: 55ms, 431 results, type:topic, date:[NOW/DAY-7DAY TO NOW], q=, 
+09.05.2014 10:34:16,842 - INFO  - searcher identified --- respT: 62ms, 104 results, type:topic, date:[NOW/DAY-7DAY TO NOW], field_TopicType_lst:ClassifiedTopic, q=, 
+09.05.2014 10:34:56,068 - INFO  - searcher identified --- respT: 66ms, 16 results, type:topic, date:[NOW/DAY-7DAY TO NOW], field_TopicType_lst:ClassifiedTopic, q=Task, 
+09.05.2014 10:34:56,943 - INFO  - searcher identified --- respT: 25ms, no results, type:topic, date:[NOW/DAY-7DAY TO NOW], field_TopicType_lst:ClassifiedTopic, q=TaskItem, 
+09.05.2014 10:34:59,602 - INFO  - searcher identified --- respT: 30ms, 68 results, type:topic, date:[NOW/DAY-7DAY TO NOW], q=TaskItem, 
+09.05.2014 10:35:00,026 - INFO  - searcher identified --- respT: 31ms, 70 results, date:[NOW/DAY-7DAY TO NOW], q=TaskItem, 
+09.05.2014 10:35:00,419 - INFO  - searcher identified --- respT: 22ms, 550 results, date:[NOW/DAY-7DAY TO NOW], q=, 
+09.05.2014 10:35:06,626 - INFO  - searcher identified --- respT: 29ms, 70 results, date:[NOW/DAY-7DAY TO NOW], q=TaskItem, 
+09.05.2014 10:37:04,695 - ERROR - unknown wikiuser
+09.05.2014 10:37:04,807 - INFO  - searcher anonymous --- respT: 31ms, 27037 results, q=, 
+09.05.2014 10:37:19,983 - ERROR - unknown wikiuser
+09.05.2014 10:37:20,072 - INFO  - searcher anonymous --- respT: 38ms, 46 results, q=kerber, 
+09.05.2014 10:37:21,566 - ERROR - unknown wikiuser
+09.05.2014 10:37:21,650 - INFO  - searcher anonymous --- respT: 36ms, 52 results, q=kerb, 
+09.05.2014 10:37:24,206 - ERROR - unknown wikiuser
+09.05.2014 10:37:24,301 - INFO  - searcher anonymous --- respT: 19ms, 3543 results, q=ke, 
+09.05.2014 10:37:26,759 - ERROR - unknown wikiuser
+09.05.2014 10:37:26,848 - INFO  - searcher anonymous --- respT: 37ms, 46 results, q=kerber, 
+09.05.2014 10:37:34,114 - ERROR - unknown wikiuser
+09.05.2014 10:37:34,199 - INFO  - searcher anonymous --- respT: 27ms, 45 results, q=kerberos, 
+09.05.2014 10:38:04,271 - ERROR - unknown wikiuser
+09.05.2014 10:38:04,394 - INFO  - searcher anonymous --- respT: 32ms, 4 results, q=openssl, 
+09.05.2014 10:42:47,940 - INFO  - searcher identified --- respT: 20ms, 4784 results, q=oder, 
+09.05.2014 10:42:51,653 - INFO  - searcher identified --- respT: 19ms, 5415 results, q=o, 
+09.05.2014 10:42:55,485 - INFO  - searcher identified --- respT: 16ms, 881 results, q=oderbolz, 
+09.05.2014 10:42:58,852 - INFO  - searcher identified --- respT: 17ms, 5415 results, q=o, 
+09.05.2014 10:43:03,386 - INFO  - searcher identified --- respT: 15ms, 245 results, q=Indico, 
+09.05.2014 10:43:09,215 - INFO  - searcher identified --- respT: 29ms, 7706 results, q=Ind, 
+09.05.2014 10:43:31,664 - INFO  - searcher identified --- respT: 55ms, 1257 results, q=RAM, 
+09.05.2014 10:43:42,295 - INFO  - searcher identified --- respT: 23ms, no results, q=serverloc, 
+09.05.2014 10:43:42,954 - INFO  - searcher identified --- respT: 21ms, no results, q=serverloce, 
+09.05.2014 10:43:43,822 - INFO  - searcher identified --- respT: 25ms, no results, q=serverlocecm4, 
+09.05.2014 10:43:48,404 - INFO  - searcher identified --- respT: 29ms, 3 results, q=serverlogecm4, 
+09.05.2014 10:44:08,658 - INFO  - searcher identified --- respT: 22ms, 4611 results, q=server, 
+09.05.2014 10:44:26,140 - INFO  - searcher identified --- respT: 24ms, 6237 results, q=log, 
+09.05.2014 10:44:36,090 - INFO  - searcher identified --- respT: 21ms, 881 results, q=oderbol, 
+09.05.2014 10:44:53,205 - INFO  - searcher identified --- respT: 18ms, 5415 results, q=o, 
+09.05.2014 10:44:55,397 - INFO  - searcher identified --- respT: 25ms, 1257 results, q=RAM, 
+09.05.2014 10:46:33,191 - INFO  - searcher identified --- respT: 21ms, 6691 results, q=Task, 
+09.05.2014 10:46:34,722 - INFO  - searcher identified --- respT: 22ms, 6691 results, q=Task:, 
+09.05.2014 10:46:37,331 - INFO  - searcher identified --- respT: 29ms, 2240 results, q=Task: Dis, 
+09.05.2014 10:46:38,549 - INFO  - searcher identified --- respT: 49ms, 734 results, q=Task: Disk, 
+09.05.2014 10:46:39,227 - INFO  - searcher identified --- respT: 26ms, 1045 results, q=Task: Discuss, 
+09.05.2014 10:46:39,951 - INFO  - searcher identified --- respT: 28ms, 878 results, q=Task: Discussion, 
+09.05.2014 10:46:44,374 - INFO  - searcher identified --- respT: 27ms, 6691 results, q=Task:, 
+09.05.2014 11:04:06,362 - INFO  - searcher identified --- respT: 27ms, 71 results, date:[NOW/DAY-7DAY TO NOW], q=TaskItem, 
+09.05.2014 11:09:11,439 - INFO  - searcher identified --- respT: 56ms, 13 results, q=Heber, 
+09.05.2014 11:09:52,655 - INFO  - searcher identified --- respT: 15ms, 62 results, q=hometopic, 
+09.05.2014 11:10:01,345 - INFO  - searcher identified --- respT: 70ms, 9 results, q=hometopic schn, 
+09.05.2014 11:10:02,057 - INFO  - searcher identified --- respT: 22ms, 3 results, q=hometopic schnorf, 
+09.05.2014 11:10:08,109 - INFO  - searcher identified --- respT: 13ms, 39 results, q=schnorf, 
+09.05.2014 11:10:17,132 - INFO  - searcher identified --- respT: 17ms, 25 results, q=schnorf Task, 
+09.05.2014 11:11:13,417 - INFO  - searcher identified --- respT: 52ms, 62383 results, q=, 
+09.05.2014 11:11:18,959 - INFO  - searcher identified --- respT: 15ms, 285 results, q=oderbolz, 
+09.05.2014 11:11:29,108 - INFO  - searcher identified --- respT: 52ms, 62383 results, q=, 
+09.05.2014 11:11:31,164 - INFO  - searcher identified --- respT: 14ms, 209 results, q=blaettler, 
+09.05.2014 11:11:41,450 - INFO  - searcher identified --- respT: 19ms, 7329 results, q=b, 
+09.05.2014 11:11:44,007 - INFO  - searcher identified --- respT: 13ms, 279 results, q=barth, 
+09.05.2014 11:12:36,849 - ERROR - unknown wikiuser
+09.05.2014 11:12:37,020 - INFO  - searcher anonymous --- respT: 18ms, 1 results, q=openssl.cnf, 
+09.05.2014 11:12:46,123 - ERROR - unknown wikiuser
+09.05.2014 11:12:46,629 - INFO  - searcher anonymous --- respT: 132ms, 14 results, q=TSL, 
+09.05.2014 11:12:47,532 - INFO  - searcher identified --- respT: 52ms, 62344 results, q=, 
+09.05.2014 11:12:49,411 - ERROR - unknown wikiuser
+09.05.2014 11:12:49,701 - INFO  - searcher anonymous --- respT: 144ms, 22 results, q=TLS_, 
+09.05.2014 11:12:54,897 - INFO  - searcher identified --- respT: 21ms, 495 results, q=Merlin, 
+09.05.2014 11:12:56,538 - INFO  - searcher identified --- respT: 29ms, 172 results, q=Merlin4, 
+09.05.2014 11:13:04,248 - INFO  - searcher identified --- respT: 29ms, 172 results, q=Merlin4 and, 
+09.05.2014 11:13:06,193 - INFO  - searcher identified --- respT: 43ms, 39 results, q=Merlin4 and SGE, 
+09.05.2014 11:13:20,550 - ERROR - unknown wikiuser
+09.05.2014 11:13:20,589 - INFO  - searcher anonymous --- respT: 13ms, 1 results, q=qvroots, 
+09.05.2014 11:13:47,350 - INFO  - searcher identified --- respT: 42ms, 39 results, q=Merlin4 and SGE and, 
+09.05.2014 11:13:53,447 - INFO  - searcher identified --- respT: 18ms, no results, q=Merlin4 and SGE and ntranet.psi.ch, 
+09.05.2014 11:13:55,121 - INFO  - searcher identified --- respT: 23ms, no results, q=Merlin4 and SGE and ntranet.psi.ch/, 
+09.05.2014 11:13:57,554 - INFO  - searcher identified --- respT: 76ms, no results, q=Merlin4 and SGE and ntranet.psi.ch/COmputi, 
+09.05.2014 11:13:58,339 - INFO  - searcher identified --- respT: 20ms, no results, q=Merlin4 and SGE and ntranet.psi.ch/COmputing, 
+09.05.2014 11:14:02,828 - INFO  - searcher identified --- respT: 46ms, no results, q=Merlin4 and SGE and ntranet.psi.ch/Cmputing, 
+09.05.2014 11:14:04,149 - INFO  - searcher identified --- respT: 25ms, no results, q=Merlin4 and SGE and nmputing, 
+09.05.2014 11:14:04,757 - INFO  - searcher identified --- respT: 82ms, no results, q=Merlin4 and SGE and mputing, 
+09.05.2014 11:14:05,844 - INFO  - searcher identified --- respT: 33ms, no results, q=Merlin4 and SGE and Cmputing, 
+09.05.2014 11:14:06,873 - INFO  - searcher identified --- respT: 39ms, 26 results, q=Merlin4 and SGE and Computing, 
+09.05.2014 11:14:37,255 - INFO  - searcher identified --- respT: 69ms, 23 results, q=Merlin4 and SGE and Computin, 
+09.05.2014 11:14:38,954 - INFO  - searcher identified --- respT: 42ms, 39 results, q=Merlin4 and SGE, 
+09.05.2014 11:14:39,463 - INFO  - searcher identified --- respT: 44ms, 50 results, q=Merlin4 and SG, 
+09.05.2014 11:14:41,133 - INFO  - searcher identified --- respT: 55ms, 39 results, q=Merlin4 and SGE, 
+09.05.2014 11:14:46,099 - INFO  - searcher identified --- respT: 22ms, 3 results, web:(Computing), q=Merlin4 and SGE, 
+09.05.2014 11:19:34,486 - INFO  - searcher identified --- respT: 29ms, 71 results, web:(PSIWeb), date:[NOW/DAY-7DAY TO NOW], q=TaskItem, 
+09.05.2014 11:21:26,892 - INFO  - searcher identified --- respT: 23ms, 3 results, q=openssl.cnf, 
+09.05.2014 11:43:44,894 - INFO  - searcher identified --- respT: 31ms, 71 results, web:(PSIWeb), date:[NOW/DAY-7DAY TO NOW], q=TaskItem, 
+09.05.2014 11:43:51,977 - INFO  - searcher identified --- respT: 32ms, 71 results, web:(PSIWeb), date:[NOW/DAY-7DAY TO NOW], q=TaskItem, 
+09.05.2014 12:05:21,677 - INFO  - searcher identified --- respT: 68ms, 66958 results, q=, 
+09.05.2014 12:05:34,524 - INFO  - searcher identified --- respT: 21ms, 2062 results, q=om in, 
+09.05.2014 12:05:36,191 - INFO  - searcher identified --- respT: 75ms, 8 results, q=om insa, 
+09.05.2014 12:05:37,714 - INFO  - searcher identified --- respT: 134ms, 4 results, q=om insat, 
+09.05.2014 12:05:38,568 - INFO  - searcher identified --- respT: 32ms, 927 results, q=om ins, 
+09.05.2014 12:05:40,298 - INFO  - searcher identified --- respT: 34ms, 345 results, q=om installa, 
+09.05.2014 12:05:53,869 - INFO  - searcher identified --- respT: 28ms, 344 results, q=om installation, 
+09.05.2014 13:25:05,274 - INFO  - searcher identified --- respT: 67ms, 62461 results, q=, 
+09.05.2014 13:25:12,442 - INFO  - searcher identified --- respT: 16ms, 694 results, q=helpdesk, 
+09.05.2014 13:25:18,296 - INFO  - searcher identified --- respT: 19ms, 528 results, q=ftp, 
+09.05.2014 13:25:19,672 - INFO  - searcher identified --- respT: 34ms, 176 results, q=ftp account, 
+09.05.2014 13:26:07,576 - ERROR - unknown wikiuser
+09.05.2014 13:26:07,664 - INFO  - searcher anonymous --- respT: 35ms, 27041 results, q=, 
+09.05.2014 13:26:12,834 - ERROR - unknown wikiuser
+09.05.2014 13:26:12,931 - INFO  - searcher anonymous --- respT: 36ms, 5 results, q=Merlin3, 
+09.05.2014 13:37:06,656 - INFO  - searcher identified --- respT: 18ms, 1480 results, q=gfa, 
+09.05.2014 13:37:08,989 - INFO  - searcher identified --- respT: 28ms, 380 results, q=gfa-status, 
+09.05.2014 13:37:11,575 - INFO  - searcher identified --- respT: 28ms, 45 results, q=gfa-status.web.psi.ch, 
+09.05.2014 13:47:26,998 - INFO  - searcher identified --- respT: 30ms, 45 results, q=gfa-status.web.psi.ch, 
+09.05.2014 13:47:30,568 - INFO  - searcher identified --- respT: 95ms, 81754 results, q=, 
+09.05.2014 13:49:24,605 - ERROR - unknown wikiuser
+09.05.2014 13:49:24,697 - INFO  - searcher anonymous --- respT: 34ms, 27041 results, q=, 
+09.05.2014 13:49:40,018 - ERROR - unknown wikiuser
+09.05.2014 13:49:40,079 - INFO  - searcher anonymous --- respT: 21ms, 853 results, q=hori, 
+09.05.2014 13:49:44,711 - ERROR - unknown wikiuser
+09.05.2014 13:49:44,860 - INFO  - searcher anonymous --- respT: 39ms, 34 results, q=horizon 2020, 
+09.05.2014 13:49:55,601 - ERROR - unknown wikiuser
+09.05.2014 13:49:55,717 - INFO  - searcher anonymous --- respT: 45ms, 11 results, web:(Techtransfer), q=horizon 2020, 
+09.05.2014 13:50:35,007 - ERROR - unknown wikiuser
+09.05.2014 13:50:35,160 - INFO  - searcher anonymous --- respT: 74ms, 6 results, type:pdf, web:(Techtransfer), q=horizon 2020, 
+09.05.2014 13:50:39,126 - ERROR - unknown wikiuser
+09.05.2014 13:50:39,177 - INFO  - searcher anonymous --- respT: 20ms, 2 results, type:pdf, web:(Techtransfer), date:[NOW-2MONTH TO NOW], q=horizon 2020, 
+09.05.2014 15:03:13,415 - INFO  - searcher identified --- respT: 19ms, 187 results, q=andreas lue, 
+09.05.2014 15:03:14,876 - INFO  - searcher identified --- respT: 15ms, 2 results, q=andreas luedecke, 
+09.05.2014 15:03:30,964 - INFO  - searcher identified --- respT: 50ms, 81771 results, q=, 
+09.05.2014 15:03:37,999 - INFO  - searcher identified --- respT: 31ms, 15298 results, q=Main., 
+09.05.2014 15:03:40,322 - INFO  - searcher identified --- respT: 36ms, 15298 results, q=Main.a, 
+09.05.2014 15:03:42,642 - INFO  - searcher identified --- respT: 18ms, 99 results, q=Main.andreas, 
+09.05.2014 15:03:46,713 - INFO  - searcher identified --- respT: 20ms, no results, q=Main.andreasLued, 
+09.05.2014 15:03:48,358 - INFO  - searcher identified --- respT: 34ms, 2 results, q=Main.andreasLu, 
+09.05.2014 15:18:49,529 - INFO  - searcher identified --- respT: 70ms, 81772 results, q=, 
+09.05.2014 16:23:14,435 - INFO  - searcher identified --- respT: 52ms, 62727 results, q=, 
+09.05.2014 16:23:18,988 - INFO  - searcher identified --- respT: 34ms, 34 results, q=itil, 
+09.05.2014 16:30:23,701 - ERROR - unknown wikiuser
+09.05.2014 16:30:23,801 - INFO  - searcher anonymous --- respT: 28ms, 27049 results, q=, 
+09.05.2014 16:30:34,909 - ERROR - unknown wikiuser
+09.05.2014 16:30:35,001 - INFO  - searcher anonymous --- respT: 17ms, 34 results, q=telefonbuch, 

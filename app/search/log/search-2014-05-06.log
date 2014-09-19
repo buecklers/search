@@ -1,0 +1,85 @@
+2014-05-06T14:14:14+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 28ms, 35628 results, q=, 
+2014-05-06T14:14:22+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 18ms, 4477 results, q=ga, 
+2014-05-06T14:14:30+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 46ms, 33 results, q=gallium, 
+2014-05-06T14:14:35+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 94ms, 7 results, web:(AUTHOR_WWW.Info), q=gallium, 
+2014-05-06T14:14:37+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 75ms, 19 results, web:(AUTHOR_WWW.Info LNS), q=gallium, 
+2014-05-06T14:14:50+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 118ms, 19 results, web:(AUTHOR_WWW.Info LNS), q=gallium, page turned
+2014-05-06T14:14:53+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 73ms, 19 results, web:(AUTHOR_WWW.Info LNS), q=gallium, 
+2014-05-06T14:14:54+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 119ms, 19 results, web:(AUTHOR_WWW.Info LNS), q=gallium, page turned
+2014-05-06T14:15:08+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 132ms, 19 results, web:(AUTHOR_WWW.Info LNS), q=gallium, page turned
+2014-05-06T14:15:21+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 108ms, 19 results, web:(AUTHOR_WWW.Info LNS), q=gallium, page turned
+2014-05-06T14:15:28+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 116ms, 19 results, web:(AUTHOR_WWW.Info LNS), q=gallium, page turned
+2014-05-06T14:15:31+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 129ms, 19 results, web:(AUTHOR_WWW.Info LNS), q=gallium, page turned
+2014-05-06T14:15:33+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 125ms, 19 results, web:(AUTHOR_WWW.Info LNS), q=gallium, page turned
+2014-05-06T14:15:38+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 224ms, 33 results, q=gallium, page turned
+2014-05-06T14:15:48+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 213ms, 33 results, q=gallium, page turned
+2014-05-06T14:15:53+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 15ms, 15 results, q=buecklers, 
+2014-05-06T14:15:54+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 15ms, 8 results, q=buecklers task, 
+2014-05-06T14:16:21+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 15ms, 2 results, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T14:17:24+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 16ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T14:53:24+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T14:53:24+02:00 [SearchLogger] searcher identified --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T14:54:11+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T14:54:11+02:00 [SearchLogger] searcher identified --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T14:59:45+02:00 [SearchLogger] --
+2014-05-06T14:59:45+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T14:59:45+02:00 [SearchLogger] searcher identified --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:00:56+02:00 [SearchLogger] --
+2014-05-06T15:00:56+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 19ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:00:56+02:00 [SearchLogger] searcher identified --- respT: 19ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:02:41+02:00 [SearchLogger] --
+2014-05-06T15:02:42+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 42ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:02:42+02:00 [SearchLogger] searcher identified --- respT: 42ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:09:04+02:00 [SearchLogger] --
+2014-05-06T15:09:04+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:09:04+02:00 [SearchLogger] searcher identified --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:09:26+02:00 [SearchLogger] --
+2014-05-06T15:09:26+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:09:26+02:00 [SearchLogger] searcher identified --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:09:28+02:00 [SearchLogger] --
+2014-05-06T15:09:28+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:09:28+02:00 [SearchLogger] searcher identified --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:12:12+02:00 [SearchLogger] --
+2014-05-06T15:12:12+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:12:12+02:00 [SearchLogger] searcher identified --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:12:41+02:00 [SearchLogger] php--
+2014-05-06T15:12:41+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:12:41+02:00 [SearchLogger] searcher identified --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:14:49+02:00 [SearchLogger] --10
+2014-05-06T15:14:49+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:14:49+02:00 [SearchLogger] searcher identified --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:15:37+02:00 [SearchLogger] htdocs--10
+2014-05-06T15:15:37+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:15:37+02:00 [SearchLogger] searcher identified --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:17:54+02:00 [SearchLogger] --10
+2014-05-06T15:17:54+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:17:54+02:00 [SearchLogger] searcher identified --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:18:16+02:00 [SearchLogger] --10
+2014-05-06T15:18:17+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:18:17+02:00 [SearchLogger] searcher identified --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:19:39+02:00 [SearchLogger] --10
+2014-05-06T15:19:39+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:19:39+02:00 [SearchLogger] searcher identified --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:20:16+02:00 [SearchLogger] --10
+2014-05-06T15:20:16+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:20:16+02:00 [SearchLogger] searcher identified --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:20:33+02:00 [SearchLogger] --10
+2014-05-06T15:20:33+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:20:33+02:00 [SearchLogger] searcher identified --- respT: 17ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:21:14+02:00 [SearchLogger] --10
+2014-05-06T15:21:14+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:21:14+02:00 [SearchLogger] searcher identified --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:24:01+02:00 [SearchLogger] --10
+2014-05-06T15:24:01+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:24:01+02:00 [SearchLogger] searcher identified --- respT: 18ms, 2 results, type:topic, date:[NOW-4HOUR TO NOW], q=buecklers task, 
+2014-05-06T15:40:22+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 21ms, 15 results, q=bueckler, 
+2014-05-06T15:40:22+02:00 [SearchLogger] searcher identified --- respT: 21ms, 15 results, q=bueckler, 
+2014-05-06T16:01:47+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 21ms, 15 results, q=bueckler, 
+2014-05-06T16:01:47+02:00 [SearchLogger] searcher identified --- respT: 21ms, 15 results, q=bueckler, 
+2014-05-06T16:02:15+02:00 [SearchLogger] searcher identified as ThomasBuecklers --- respT: 23ms, 15 results, q=bueckler, 
+2014-05-06T16:02:15+02:00 [SearchLogger] searcher identified --- respT: 23ms, 15 results, q=bueckler, 
+2014-05-06T16:03:59+02:00 [SearchLogger] searcher identified --- respT: 23ms, 15 results, q=bueckler, 
+2014-05-06T16:04:09+02:00 [SearchLogger] searcher identified --- respT: 22ms, 15 results, q=bueckler, 
+2014-05-06T16:09:56+02:00 [SearchLogger] searcher identified --- respT: 24ms, 15 results, q=bueckler, 
+2014-05-06T16:16:11+02:00 [SearchLogger] searcher identified --- respT: 24ms, 15 results, q=bueckler, 
+2014-05-06T16:16:13+02:00 [SearchLogger] searcher identified --- respT: 24ms, 15 results, q=bueckler, 

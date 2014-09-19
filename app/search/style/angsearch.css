@@ -1,0 +1,128 @@
+.nav, .pagination, .ng-pristine, .panel-title a { cursor: pointer; }
+
+.patternContent li{
+	padding:0px;
+}
+label.ng-binding{
+	font-weight:normal;
+	margin:0px;
+}
+
+.pagination {
+	margin: 10px 0;
+}
+
+.pagination-sm  li  a, .pagination-sm  li  span{
+	padding: 1px 10px;
+	font-size: 12px;
+}
+
+.ui-autocomplete-loading{
+	background-image: none!important;
+}
+
+.query_search{
+	#position: absolute;
+	float: right;
+	width:40%;
+	right:2px;
+	margin-top:3px;
+	height: 19px;
+	border-color: #EEE;
+	border-width: 1px;
+	padding-right: 21px;
+	background-image:url('../images/facetsearch.png');
+	background-repeat:no-repeat;
+	background-position: right top;
+}
+
+.facetList{
+	 display: block; 
+	 overflow:auto; 
+	 max-height:250px;
+}
+
+.solrResultsPerPage{
+	margin-top:10px;
+}
+
+td.td-checkbox{
+	vertical-align:top; 
+	padding-top:4px;
+	width: 12px;
+}
+
+td.dt_label{
+	text-align:left;
+	white-space:nowrap;
+}
+
+/*Task status*/
+.Discussion{
+	background-color:#F78888;
+	color:#555;
+	padding-left: 5px;  
+	padding-right: 5px;
+}
+
+.Confirmed{
+	background-color:#FACE93;
+	color:#555;
+	padding-left: 5px;  
+	padding-right: 5px;
+}
+
+.Being{
+	background-color:#FAF4A2;
+	color:#555;
+	padding-left: 5px;  
+	padding-right: 5px;
+}
+
+.Closed{
+	background-color:#BAEBA7;
+	color:#555;
+	padding-left: 5px;  
+	padding-right: 5px;
+}
+
+
+
+
+
+
+
+
+/* 
+.carousel{
+	display: block;
+	height: 93%;
+	width: 200px;
+	padding-bottom:2.3em;
+	margin-bottom: -11px;
+}
+
+.carousel-control{
+	display:block;
+	top:auto;
+	color:black;
+	bottom:15px;
+	width:30px;
+	
+}
+
+
+
+.carousel-indicators li{
+	width:0px;
+	border-color:#aaaaaa;
+	z-index:0;
+}
+
+.carousel-indicators{
+	bottom: 3px;
+}
+
+ */
+
+

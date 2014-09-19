@@ -1,0 +1,12 @@
+08.05.2014 07:37:07,412 - INFO  - searcher identified --- respT: 86ms, 42 results, web:(AIT), q=test web, page turned
+08.05.2014 12:24:53,715 - INFO  - searcher identified --- respT: 35ms, 35741 results, q=, 
+08.05.2014 12:25:03,438 - INFO  - searcher identified --- respT: 16ms, 419 results, q=schaub, 
+08.05.2014 12:25:07,147 - INFO  - searcher identified --- respT: 39ms, 419 results, q=schaub, page turned
+08.05.2014 12:25:07,737 - ERROR - unknown wikiuser
+08.05.2014 12:25:07,778 - INFO  - searcher anonymous --- respT: 14ms, 133 results, q=schaub, page turned
+08.05.2014 12:25:08,851 - INFO  - searcher identified --- respT: 14ms, 419 results, q=schaub, page turned
+08.05.2014 12:25:11,250 - INFO  - searcher identified --- respT: 39ms, 419 results, q=schaub, page turned
+08.05.2014 12:25:13,703 - INFO  - searcher identified --- respT: 16ms, 419 results, q=schaub, 
+08.05.2014 14:04:53,829 - INFO  - searcher identified --- respT: 23ms, 1259 results, q=AIT, 
+08.05.2014 14:04:59,974 - INFO  - searcher identified --- respT: 25ms, 312 results, q=AIT main, 
+08.05.2014 14:25:05,742 - INFO  - searcher identified --- respT: 29ms, 35797 results, q=, 

@@ -1,0 +1,42 @@
+19.09.2014 10:30:39,868 - ERROR - unknown wikiuser
+19.09.2014 10:30:39,929 - INFO  - searcher anonymous --- respT: 14ms, 21 results, q=buecklers, 
+19.09.2014 10:30:44,541 - ERROR - unknown wikiuser
+19.09.2014 10:30:44,642 - INFO  - searcher anonymous --- respT: 22ms, 21 results, q=buecklers, 
+19.09.2014 10:31:04,388 - ERROR - unknown wikiuser
+19.09.2014 10:31:04,510 - INFO  - searcher anonymous --- respT: 23ms, 28879 results, q=, 
+19.09.2014 10:31:54,493 - ERROR - unknown wikiuser
+19.09.2014 10:31:54,617 - INFO  - searcher anonymous --- respT: 25ms, 28879 results, q=, 
+19.09.2014 11:06:21,644 - ERROR - unknown wikiuser
+19.09.2014 11:06:21,681 - INFO  - searcher anonymous --- respT: ms, no results, q=, 
+19.09.2014 11:07:18,892 - ERROR - unknown wikiuser
+19.09.2014 11:07:19,399 - INFO  - searcher anonymous --- respT: 19ms, 21 results, q=buecklers, 
+19.09.2014 11:49:15,113 - ERROR - unknown wikiuser
+19.09.2014 11:49:15,331 - INFO  - searcher anonymous --- respT: 24ms, 21 results, q=buecklers, 
+19.09.2014 11:49:36,255 - ERROR - unknown wikiuser
+19.09.2014 11:49:36,332 - INFO  - searcher anonymous --- respT: 13ms, 21 results, q=buecklers, 
+19.09.2014 11:50:52,978 - ERROR - unknown wikiuser
+19.09.2014 11:50:53,107 - INFO  - searcher anonymous --- respT: ms, no results, q=, 
+19.09.2014 12:30:21,984 - ERROR - unknown wikiuser
+19.09.2014 12:30:22,068 - INFO  - searcher anonymous --- respT: 14ms, 22 results, q=buecklers, 
+19.09.2014 12:31:31,838 - ERROR - unknown wikiuser
+19.09.2014 12:31:31,941 - INFO  - searcher anonymous --- respT: 17ms, 22 results, q=buecklers, 
+19.09.2014 12:31:44,079 - ERROR - unknown wikiuser
+19.09.2014 12:31:44,163 - INFO  - searcher anonymous --- respT: 14ms, 22 results, q=buecklers, 
+19.09.2014 12:32:02,819 - ERROR - unknown wikiuser
+19.09.2014 12:32:02,900 - INFO  - searcher anonymous --- respT: 16ms, 22 results, q=buecklers, 
+19.09.2014 12:32:06,535 - ERROR - unknown wikiuser
+19.09.2014 12:32:06,658 - INFO  - searcher anonymous --- respT: 19ms, 22 results, q=buecklers, 
+19.09.2014 13:53:17,439 - ERROR - unknown wikiuser
+19.09.2014 13:53:17,513 - INFO  - searcher anonymous --- respT: 14ms, 22 results, q=buecklers, 
+19.09.2014 13:56:59,411 - ERROR - unknown wikiuser
+19.09.2014 13:56:59,542 - INFO  - searcher anonymous --- respT: 27ms, 28876 results, q=, 
+19.09.2014 13:57:12,835 - ERROR - unknown wikiuser
+19.09.2014 13:57:13,035 - INFO  - searcher anonymous --- respT: 16ms, 421 results, q=lichtsteiner, 
+19.09.2014 14:01:59,577 - ERROR - unknown wikiuser
+19.09.2014 14:01:59,658 - INFO  - searcher anonymous --- respT: 17ms, 422 results, q=lichtsteiner, 
+19.09.2014 14:02:13,391 - ERROR - unknown wikiuser
+19.09.2014 14:02:13,534 - INFO  - searcher anonymous --- respT: 33ms, 28876 results, q=, 
+19.09.2014 14:27:08,615 - ERROR - unknown wikiuser
+19.09.2014 14:27:08,714 - INFO  - searcher anonymous --- respT: 28ms, 28877 results, q=, 
+19.09.2014 14:42:11,544 - ERROR - unknown wikiuser
+19.09.2014 14:42:11,705 - INFO  - searcher anonymous --- respT: 40ms, 22 results, q=buecklers, 

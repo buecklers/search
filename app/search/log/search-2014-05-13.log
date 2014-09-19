@@ -1,0 +1,153 @@
+13.05.2014 07:35:50,990 - INFO  - searcher identified --- respT: 25ms, 3994 results, q=test, 
+13.05.2014 08:34:51,540 - INFO  - searcher identified --- respT: 43ms, 82218 results, q=, 
+13.05.2014 08:35:15,394 - INFO  - searcher identified --- respT: 21ms, 40 results, q=clubs.web., 
+13.05.2014 08:35:16,573 - INFO  - searcher identified --- respT: 14ms, no results, q=clubs.web.p, 
+13.05.2014 08:35:18,114 - INFO  - searcher identified --- respT: 21ms, 40 results, q=clubs.web.psi.ch, 
+13.05.2014 09:27:11,447 - INFO  - searcher identified --- respT: 48ms, 67278 results, q=, 
+13.05.2014 09:27:26,225 - INFO  - searcher identified --- respT: 24ms, 67278 results, q=, 
+13.05.2014 09:27:33,919 - INFO  - searcher identified --- respT: 43ms, 135 results, q=om namen, 
+13.05.2014 09:27:38,926 - INFO  - searcher identified --- respT: 37ms, 80 results, web:(PSIWeb), q=om namen, 
+13.05.2014 09:27:56,335 - INFO  - searcher identified --- respT: 27ms, 80 results, web:(PSIWeb), q=om namen, page turned
+13.05.2014 09:27:59,532 - INFO  - searcher identified --- respT: 173ms, 80 results, web:(PSIWeb), q=om namen, page turned
+13.05.2014 09:28:12,586 - INFO  - searcher identified --- respT: 17ms, 3 results, web:(PSIWeb), author:DanielOderbolz, q=om namen, page turned
+13.05.2014 09:28:19,084 - INFO  - searcher identified --- respT: 20ms, 3 results, web:(PSIWeb), author:DanielOderbolz, q=om namen, page turned
+13.05.2014 09:28:27,147 - INFO  - searcher identified --- respT: 190ms, 80 results, web:(PSIWeb), q=om namen, page turned
+13.05.2014 09:34:56,458 - INFO  - searcher identified --- respT: 19ms, no results, q=p.web.psi.ch, 
+13.05.2014 09:34:57,449 - INFO  - searcher identified --- respT: 34ms, 9 results, q=poldi.web.psi.ch, 
+13.05.2014 09:44:18,074 - ERROR - unknown wikiuser
+13.05.2014 09:44:18,190 - INFO  - searcher anonymous --- respT: 37ms, 27083 results, q=, 
+13.05.2014 09:44:22,064 - ERROR - unknown wikiuser
+13.05.2014 09:44:22,118 - INFO  - searcher anonymous --- respT: 13ms, no results, q=catia kurse, 
+13.05.2014 09:44:32,194 - ERROR - unknown wikiuser
+13.05.2014 09:44:32,235 - INFO  - searcher anonymous --- respT: 14ms, 483 results, q=cati, 
+13.05.2014 09:46:57,573 - INFO  - searcher identified --- respT: 37ms, 70040 results, q=, 
+13.05.2014 09:47:01,148 - INFO  - searcher identified --- respT: 35ms, 295 results, q=intranet.psi.ch/search/, 
+13.05.2014 09:47:02,146 - INFO  - searcher identified --- respT: 35ms, 295 results, q=intranet.psi.ch/search/, 
+13.05.2014 09:48:23,715 - ERROR - unknown wikiuser
+13.05.2014 09:48:23,795 - INFO  - searcher anonymous --- respT: 34ms, 27083 results, q=, 
+13.05.2014 09:48:28,563 - ERROR - unknown wikiuser
+13.05.2014 09:48:28,636 - INFO  - searcher anonymous --- respT: 17ms, 275 results, q=catia, 
+13.05.2014 09:48:31,699 - ERROR - unknown wikiuser
+13.05.2014 09:48:31,736 - INFO  - searcher anonymous --- respT: 14ms, no results, q=catia kurse, 
+13.05.2014 09:53:58,539 - ERROR - unknown wikiuser
+13.05.2014 09:53:58,614 - INFO  - searcher anonymous --- respT: 15ms, 275 results, q=catia, 
+13.05.2014 09:57:00,468 - INFO  - searcher identified --- respT: 34ms, 55601 results, q=, 
+13.05.2014 09:57:10,619 - INFO  - searcher identified --- respT: 24ms, 16720 results, q=cat, 
+13.05.2014 09:57:13,759 - INFO  - searcher identified --- respT: 21ms, 890 results, q=catia, 
+13.05.2014 09:57:17,159 - INFO  - searcher identified --- respT: 21ms, 41 results, q=catia ku, 
+13.05.2014 09:57:18,112 - INFO  - searcher identified --- respT: 22ms, 3 results, q=catia kurse, 
+13.05.2014 09:59:04,691 - INFO  - searcher identified --- respT: 34ms, 55601 results, q=, 
+13.05.2014 09:59:13,905 - INFO  - searcher identified --- respT: 44ms, 890 results, q=catia, 
+13.05.2014 09:59:19,970 - INFO  - searcher identified --- respT: 24ms, 3 results, q=catia kurse, 
+13.05.2014 12:06:27,735 - INFO  - searcher identified --- respT: 19ms, no results, q=mater.web.psi.ch, 
+13.05.2014 12:06:28,356 - INFO  - searcher identified --- respT: 30ms, 13 results, q=materials.web.psi.ch, 
+13.05.2014 13:42:05,806 - ERROR - unknown wikiuser
+13.05.2014 13:42:05,941 - INFO  - searcher anonymous --- respT: 46ms, 27083 results, q=, 
+13.05.2014 13:42:09,759 - ERROR - unknown wikiuser
+13.05.2014 13:42:09,817 - INFO  - searcher anonymous --- respT: 13ms, 5 results, q=buecklers, 
+13.05.2014 13:43:44,838 - INFO  - searcher identified --- respT: 16ms, 559 results, q=cati, 
+13.05.2014 13:43:59,334 - INFO  - searcher identified --- respT: 25ms, 14549 results, q=cat, 
+13.05.2014 13:44:31,572 - INFO  - searcher identified --- respT: 36ms, 12870 results, q=cate, 
+13.05.2014 13:48:09,484 - INFO  - searcher identified --- respT: 16ms, 559 results, q=cati, 
+13.05.2014 13:49:59,596 - INFO  - searcher identified --- respT: 16ms, 288 results, q=catia, 
+13.05.2014 13:50:00,860 - INFO  - searcher identified --- respT: 15ms, 238 results, q=catiavpm, 
+13.05.2014 13:50:18,977 - INFO  - searcher identified --- respT: 27ms, 4 results, q=catia kurs, 
+13.05.2014 13:50:23,167 - INFO  - searcher identified --- respT: 24ms, 2 results, q=catia kurse, 
+13.05.2014 13:51:04,621 - INFO  - searcher identified --- respT: 18ms, 145 results, q=schulung, 
+13.05.2014 13:51:05,587 - INFO  - searcher identified --- respT: 19ms, 145 results, q=schulung DE, 
+13.05.2014 13:53:43,092 - INFO  - searcher identified --- respT: 15ms, 559 results, q=cati, 
+13.05.2014 13:54:47,091 - INFO  - searcher identified --- respT: 17ms, 559 results, q=cati, 
+13.05.2014 14:29:24,635 - INFO  - searcher identified --- respT: 25ms, 26 results, q=catia kur, 
+13.05.2014 14:29:31,995 - INFO  - searcher identified --- respT: 11ms, 951 results, q=catia, 
+13.05.2014 14:29:33,281 - INFO  - searcher identified --- respT: 42ms, 7 results, q=catia kurse, 
+13.05.2014 14:32:33,849 - ERROR - unknown wikiuser
+13.05.2014 14:32:33,910 - INFO  - searcher anonymous --- respT: 23ms, 27086 results, q=, 
+13.05.2014 14:32:41,043 - ERROR - unknown wikiuser
+13.05.2014 14:32:41,083 - INFO  - searcher anonymous --- respT: 11ms, 275 results, q=catia, 
+13.05.2014 14:32:42,152 - ERROR - unknown wikiuser
+13.05.2014 14:32:42,410 - INFO  - searcher anonymous --- respT: 15ms, 54 results, q=catia sch, 
+13.05.2014 14:32:43,181 - ERROR - unknown wikiuser
+13.05.2014 14:32:43,221 - INFO  - searcher anonymous --- respT: 11ms, 275 results, q=catia, 
+13.05.2014 14:32:44,252 - ERROR - unknown wikiuser
+13.05.2014 14:32:44,546 - INFO  - searcher anonymous --- respT: 55ms, 7 results, q=catia k, 
+13.05.2014 14:32:45,326 - ERROR - unknown wikiuser
+13.05.2014 14:32:45,355 - INFO  - searcher anonymous --- respT: 9ms, no results, q=catia kurse, 
+13.05.2014 14:32:54,524 - ERROR - unknown wikiuser
+13.05.2014 14:32:54,579 - INFO  - searcher anonymous --- respT: 13ms, 483 results, q=cati, 
+13.05.2014 14:32:55,525 - ERROR - unknown wikiuser
+13.05.2014 14:32:55,573 - INFO  - searcher anonymous --- respT: 23ms, 275 results, q=catia, 
+13.05.2014 14:33:07,522 - ERROR - unknown wikiuser
+13.05.2014 14:33:07,577 - INFO  - searcher anonymous --- respT: 10ms, no results, q=catia jz, 
+13.05.2014 14:33:08,367 - ERROR - unknown wikiuser
+13.05.2014 14:33:08,403 - INFO  - searcher anonymous --- respT: 12ms, 483 results, q=cati, 
+13.05.2014 14:33:09,280 - ERROR - unknown wikiuser
+13.05.2014 14:33:09,312 - INFO  - searcher anonymous --- respT: 10ms, 275 results, q=catia, 
+13.05.2014 14:33:10,518 - ERROR - unknown wikiuser
+13.05.2014 14:33:10,599 - INFO  - searcher anonymous --- respT: 31ms, 20 results, q=catia kur, 
+13.05.2014 14:33:11,548 - ERROR - unknown wikiuser
+13.05.2014 14:33:11,583 - INFO  - searcher anonymous --- respT: 12ms, 2 results, q=catia kurs, 
+13.05.2014 14:33:12,124 - ERROR - unknown wikiuser
+13.05.2014 14:33:12,152 - INFO  - searcher anonymous --- respT: 9ms, no results, q=catia kurse, 
+13.05.2014 14:33:26,231 - ERROR - unknown wikiuser
+13.05.2014 14:33:26,269 - INFO  - searcher anonymous --- respT: 11ms, 2 results, q=catia kurs, 
+13.05.2014 14:33:27,298 - ERROR - unknown wikiuser
+13.05.2014 14:33:27,343 - INFO  - searcher anonymous --- respT: 11ms, 275 results, q=catia, 
+13.05.2014 14:34:15,065 - ERROR - unknown wikiuser
+13.05.2014 14:34:15,142 - INFO  - searcher anonymous --- respT: 32ms, 20 results, q=catia kur, 
+13.05.2014 14:34:16,572 - ERROR - unknown wikiuser
+13.05.2014 14:34:16,606 - INFO  - searcher anonymous --- respT: 11ms, 2 results, q=catia kurs, 
+13.05.2014 14:34:19,226 - ERROR - unknown wikiuser
+13.05.2014 14:34:19,275 - INFO  - searcher anonymous --- respT: 29ms, no results, q=catia kurse, 
+13.05.2014 14:34:20,890 - ERROR - unknown wikiuser
+13.05.2014 14:34:20,966 - INFO  - searcher anonymous --- respT: 32ms, 20 results, q=catia kur, 
+13.05.2014 14:34:21,635 - ERROR - unknown wikiuser
+13.05.2014 14:34:21,756 - INFO  - searcher anonymous --- respT: 54ms, 7 results, q=catia k, 
+13.05.2014 14:34:24,406 - ERROR - unknown wikiuser
+13.05.2014 14:34:24,440 - INFO  - searcher anonymous --- respT: 10ms, 275 results, q=catia, 
+13.05.2014 14:34:28,767 - ERROR - unknown wikiuser
+13.05.2014 14:34:28,912 - INFO  - searcher anonymous --- respT: 78ms, 7 results, q=catia k, 
+13.05.2014 14:34:29,770 - ERROR - unknown wikiuser
+13.05.2014 14:34:29,799 - INFO  - searcher anonymous --- respT: 9ms, no results, q=catia kurse, 
+13.05.2014 14:34:32,935 - ERROR - unknown wikiuser
+13.05.2014 14:34:32,968 - INFO  - searcher anonymous --- respT: 11ms, 2 results, q=catia kurs, 
+13.05.2014 14:34:33,856 - ERROR - unknown wikiuser
+13.05.2014 14:34:33,978 - INFO  - searcher anonymous --- respT: 54ms, 7 results, q=catia k, 
+13.05.2014 14:34:37,135 - ERROR - unknown wikiuser
+13.05.2014 14:34:37,166 - INFO  - searcher anonymous --- respT: 10ms, 275 results, q=catia, 
+13.05.2014 14:35:28,625 - INFO  - searcher identified --- respT: 52ms, 82480 results, q=, 
+13.05.2014 14:35:32,681 - INFO  - searcher identified --- respT: 11ms, 952 results, q=catia, 
+13.05.2014 14:35:36,885 - INFO  - searcher identified --- respT: 43ms, 7 results, q=catia kurse, 
+13.05.2014 14:38:10,067 - INFO  - searcher identified --- respT: 48ms, 6 results, q=catia kurse, 
+13.05.2014 14:49:22,015 - INFO  - searcher identified --- respT: 54ms, 82396 results, q=, 
+13.05.2014 14:49:25,312 - INFO  - searcher identified --- respT: 13ms, 219 results, q=solr, 
+13.05.2014 14:49:26,847 - INFO  - searcher identified --- respT: 47ms, 5 results, q=solr era, 
+13.05.2014 14:49:27,619 - INFO  - searcher identified --- respT: 11ms, 219 results, q=solr, 
+13.05.2014 14:49:29,505 - INFO  - searcher identified --- respT: 76ms, 8 results, q=solr rename, 
+13.05.2014 14:49:31,820 - INFO  - searcher identified --- respT: 60ms, 8 results, q=solr rename test, 
+13.05.2014 14:49:49,739 - INFO  - searcher identified --- respT: 36ms, 3 results, q=solr rename teste, 
+13.05.2014 14:50:02,371 - INFO  - searcher identified --- respT: 73ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:07,037 - INFO  - searcher identified --- respT: 63ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:24,285 - INFO  - searcher identified --- respT: 69ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:26,757 - INFO  - searcher identified --- respT: 63ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:29,583 - INFO  - searcher identified --- respT: 63ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:30,625 - INFO  - searcher identified --- respT: 60ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:31,447 - INFO  - searcher identified --- respT: 61ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:32,175 - INFO  - searcher identified --- respT: 71ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:34,140 - INFO  - searcher identified --- respT: 63ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:42,761 - INFO  - searcher identified --- respT: 78ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:45,904 - INFO  - searcher identified --- respT: 62ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:47,669 - INFO  - searcher identified --- respT: 65ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:49,264 - INFO  - searcher identified --- respT: 65ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:50,640 - INFO  - searcher identified --- respT: 63ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:52,459 - INFO  - searcher identified --- respT: 74ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:54,611 - INFO  - searcher identified --- respT: 67ms, 8 results, q=solr rename test, 
+13.05.2014 14:50:56,692 - INFO  - searcher identified --- respT: 73ms, 8 results, q=solr rename test, 
+13.05.2014 14:51:01,263 - INFO  - searcher identified --- respT: 60ms, 8 results, q=solr rename test, 
+13.05.2014 14:51:03,535 - INFO  - searcher identified --- respT: 81ms, 8 results, q=solr rename test, 
+13.05.2014 14:51:36,590 - INFO  - searcher identified --- respT: 64ms, 9 results, q=solr rename test, 
+13.05.2014 14:52:20,460 - INFO  - searcher identified --- respT: 19ms, 3 results, q=catia kurse, 
+13.05.2014 14:52:30,336 - INFO  - searcher identified --- respT: 19ms, 3 results, q=catia kurse, 
+13.05.2014 14:52:38,804 - INFO  - searcher identified --- respT: 66ms, 9 results, q=solr rename test, 
+13.05.2014 14:54:01,584 - INFO  - searcher identified --- respT: 18ms, 22 results, q=bueckl, 
+13.05.2014 15:02:15,367 - INFO  - searcher identified --- respT: 63ms, 82401 results, q=, 
+13.05.2014 15:02:20,492 - INFO  - searcher identified --- respT: 42ms, 6 results, q=catia kurse, 

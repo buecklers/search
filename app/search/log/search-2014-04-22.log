@@ -1,0 +1,111 @@
+2014-04-22T15:58:50+02:00 [SearchLogger] user list not found
+2014-04-22T15:58:50+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T15:58:51+02:00 [SearchLogger] searcher anonymous --- respT: 26ms, 26764 results, q=, 
+2014-04-22T16:00:01+02:00 [SearchLogger] user list not found
+2014-04-22T16:00:01+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:00:01+02:00 [SearchLogger] searcher anonymous --- respT: 28ms, 26764 results, q=, 
+2014-04-22T16:00:50+02:00 [SearchLogger] user list not found
+2014-04-22T16:00:50+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:00:51+02:00 [SearchLogger] searcher anonymous --- respT: 27ms, 26764 results, q=, 
+2014-04-22T16:01:04+02:00 [SearchLogger] user list not found
+2014-04-22T16:01:04+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:01:04+02:00 [SearchLogger] searcher anonymous --- respT: 26ms, 26764 results, q=, 
+2014-04-22T16:01:15+02:00 [SearchLogger] user list not found
+2014-04-22T16:01:16+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:01:16+02:00 [SearchLogger] searcher anonymous --- respT: 42ms, 83 results, web:(AIT), q=, 
+2014-04-22T16:02:54+02:00 [SearchLogger] user list not found
+2014-04-22T16:02:54+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:02:55+02:00 [SearchLogger] searcher anonymous --- respT: 28ms, 26764 results, q=, 
+2014-04-22T16:03:00+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:00+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:00+02:00 [SearchLogger] searcher anonymous --- respT: 14ms, 678 results, q=news, 
+2014-04-22T16:03:02+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:02+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:02+02:00 [SearchLogger] searcher anonymous --- respT: 15ms, 678 results, q=news, page turned
+2014-04-22T16:03:03+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:03+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:03+02:00 [SearchLogger] searcher anonymous --- respT: 15ms, 678 results, q=news, page turned
+2014-04-22T16:03:04+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:04+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:04+02:00 [SearchLogger] searcher anonymous --- respT: 16ms, 678 results, q=news, page turned
+2014-04-22T16:03:05+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:05+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:05+02:00 [SearchLogger] searcher anonymous --- respT: 14ms, 678 results, q=news, page turned
+2014-04-22T16:03:06+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:06+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:06+02:00 [SearchLogger] searcher anonymous --- respT: 13ms, 678 results, q=news, page turned
+2014-04-22T16:03:09+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:09+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:09+02:00 [SearchLogger] searcher anonymous --- respT: 13ms, 17 results, web:(Besucherteam), q=news, page turned
+2014-04-22T16:03:09+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:09+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:09+02:00 [SearchLogger] searcher anonymous --- respT: 21ms, 17 results, web:(Besucherteam), q=news, page turned
+2014-04-22T16:03:32+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:32+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:32+02:00 [SearchLogger] searcher anonymous --- respT: 44ms, 57 results, web:(Besucherteam Swiss_FEL), q=news, page turned
+2014-04-22T16:03:34+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:34+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:34+02:00 [SearchLogger] searcher anonymous --- respT: 26ms, 71 results, web:(Besucherteam Swiss_FEL Swiss_FEL.Intern), q=news, page turned
+2014-04-22T16:03:55+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:55+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:55+02:00 [SearchLogger] searcher anonymous --- respT: 36ms, 54 results, web:(Swiss_FEL Swiss_FEL.Intern), q=news, page turned
+2014-04-22T16:03:58+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:58+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:58+02:00 [SearchLogger] searcher anonymous --- respT: 19ms, 14 results, web:(Swiss_FEL.Intern), q=news, page turned
+2014-04-22T16:03:59+02:00 [SearchLogger] user list not found
+2014-04-22T16:03:59+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:03:59+02:00 [SearchLogger] searcher anonymous --- respT: 15ms, 678 results, q=news, page turned
+2014-04-22T16:04:04+02:00 [SearchLogger] user list not found
+2014-04-22T16:04:04+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:04:04+02:00 [SearchLogger] searcher anonymous --- respT: 14ms, 678 results, q=news, 
+2014-04-22T16:04:06+02:00 [SearchLogger] user list not found
+2014-04-22T16:04:06+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:04:06+02:00 [SearchLogger] searcher anonymous --- respT: 106ms, 678 results, q=news, page turned
+2014-04-22T16:04:11+02:00 [SearchLogger] user list not found
+2014-04-22T16:04:11+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:04:11+02:00 [SearchLogger] searcher anonymous --- respT: 17ms, 508 results, q=licht, 
+2014-04-22T16:04:15+02:00 [SearchLogger] user list not found
+2014-04-22T16:04:15+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:04:15+02:00 [SearchLogger] searcher anonymous --- respT: 18ms, 376 results, q=lichtstein, 
+2014-04-22T16:04:23+02:00 [SearchLogger] user list not found
+2014-04-22T16:04:23+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:04:24+02:00 [SearchLogger] searcher anonymous --- respT: 21ms, 376 results, q=lichtstein, 
+2014-04-22T16:04:27+02:00 [SearchLogger] user list not found
+2014-04-22T16:04:27+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:04:27+02:00 [SearchLogger] searcher anonymous --- respT: 24ms, 2 results, type:image, q=lichtstein, 
+2014-04-22T16:04:34+02:00 [SearchLogger] user list not found
+2014-04-22T16:04:34+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:04:34+02:00 [SearchLogger] searcher anonymous --- respT: 26ms, 26764 results, q=, 
+2014-04-22T16:05:10+02:00 [SearchLogger] user list not found
+2014-04-22T16:05:10+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:05:10+02:00 [SearchLogger] searcher anonymous --- respT: 27ms, 26764 results, q=, 
+2014-04-22T16:05:32+02:00 [SearchLogger] user list not found
+2014-04-22T16:05:32+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:05:32+02:00 [SearchLogger] searcher anonymous --- respT: 31ms, 2643 results, web:(Swiss_FEL), q=, 
+2014-04-22T16:05:39+02:00 [SearchLogger] user list not found
+2014-04-22T16:05:39+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:05:39+02:00 [SearchLogger] searcher anonymous --- respT: 11ms, 799 results, type:image, web:(Swiss_FEL), q=, 
+2014-04-22T16:05:57+02:00 [SearchLogger] user list not found
+2014-04-22T16:05:57+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:05:57+02:00 [SearchLogger] searcher anonymous --- respT: 14ms, 7497 results, type:image, q=, 
+2014-04-22T16:06:07+02:00 [SearchLogger] user list not found
+2014-04-22T16:06:07+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:06:07+02:00 [SearchLogger] searcher anonymous --- respT: 112ms, 840 results, type:pdf, web:(Swiss_FEL), q=, 
+2014-04-22T16:11:27+02:00 [SearchLogger] user list not found
+2014-04-22T16:11:27+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:11:27+02:00 [SearchLogger] searcher anonymous --- respT: 26ms, 26764 results, q=, 
+2014-04-22T16:11:30+02:00 [SearchLogger] user list not found
+2014-04-22T16:11:30+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:11:30+02:00 [SearchLogger] searcher anonymous --- respT: 13ms, 7497 results, type:image, q=, 
+2014-04-22T16:12:46+02:00 [SearchLogger] user list not found
+2014-04-22T16:12:46+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:12:46+02:00 [SearchLogger] searcher anonymous --- respT: 26ms, 26764 results, q=, 
+2014-04-22T16:12:48+02:00 [SearchLogger] user list not found
+2014-04-22T16:12:48+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:12:48+02:00 [SearchLogger] searcher anonymous --- respT: 22ms, 14287 results, type:topic, q=, 
+2014-04-22T16:15:02+02:00 [SearchLogger] user list not found
+2014-04-22T16:15:02+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:15:02+02:00 [SearchLogger] searcher anonymous --- respT: 34ms, 26764 results, q=, 
+2014-04-22T16:16:16+02:00 [SearchLogger] user list not found
+2014-04-22T16:16:16+02:00 [SearchLogger] unknown wikiuser
+2014-04-22T16:16:17+02:00 [SearchLogger] searcher anonymous --- respT: 26ms, 26764 results, q=, 
